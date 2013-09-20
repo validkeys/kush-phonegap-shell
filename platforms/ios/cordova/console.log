@@ -208,3 +208,39 @@ Terminating in response to SpringBoard's termination.
 2013-09-20 10:41:31.895 Kush[10752:c07] Resetting plugins due to page load.
 2013-09-20 10:41:34.291 Kush[10752:c07] Finished load of: file:///Users/nulayer/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/DB4C5144-46F2-42A8-BEAE-8F2797268F15/Kush.app/www/index.html#login
 Terminating in response to SpringBoard's termination.
+2013-09-20 13:09:02.282 Kush[11780:c07] Multi-tasking -> Device: YES, App: YES
+2013-09-20 13:09:02.630 Kush[11780:c07] Resetting plugins due to page load.
+2013-09-20 13:09:02.704 Kush[11780:c07] Finished load of: file:///Users/nulayer/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/DB4C5144-46F2-42A8-BEAE-8F2797268F15/Kush.app/www/index.html
+2013-09-20 13:09:42.412 Kush[11780:c07] Resetting plugins due to page load.
+2013-09-20 13:09:42.440 Kush[11780:c07] Finished load of: file:///Users/nulayer/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/DB4C5144-46F2-42A8-BEAE-8F2797268F15/Kush.app/www/index.html
+2013-09-20 13:09:44.024 Kush[11780:c07] Resetting plugins due to page load.
+2013-09-20 13:09:44.037 Kush[11780:c07] Finished load of: file:///Users/nulayer/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/DB4C5144-46F2-42A8-BEAE-8F2797268F15/Kush.app/www/index.html
+2013-09-20 13:09:52.166 Kush[11780:c07] Resetting plugins due to page load.
+2013-09-20 13:09:52.180 Kush[11780:c07] Finished load of: file:///Users/nulayer/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/DB4C5144-46F2-42A8-BEAE-8F2797268F15/Kush.app/www/index.html
+2013-09-20 13:10:20.564 Kush[12097:c07] Multi-tasking -> Device: YES, App: YES
+2013-09-20 13:10:20.607 Kush[12097:c07] Resetting plugins due to page load.
+2013-09-20 13:10:20.652 Kush[12097:c07] Finished load of: file:///Users/nulayer/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/DB4C5144-46F2-42A8-BEAE-8F2797268F15/Kush.app/www/index.html
+2013-09-20 13:10:26.196 Kush[12097:c07] Resetting plugins due to page load.
+2013-09-20 13:10:26.205 Kush[12097:c07] Finished load of: file:///Users/nulayer/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/DB4C5144-46F2-42A8-BEAE-8F2797268F15/Kush.app/www/index.html
+2013-09-20 13:10:34.535 Kush[12097:c07] Resetting plugins due to page load.
+2013-09-20 13:10:34.546 Kush[12097:c07] Finished load of: file:///Users/nulayer/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/DB4C5144-46F2-42A8-BEAE-8F2797268F15/Kush.app/www/index.html
+2013-09-20 13:11:03.391 Kush[12399:c07] Multi-tasking -> Device: YES, App: YES
+2013-09-20 13:11:03.441 Kush[12399:c07] Resetting plugins due to page load.
+2013-09-20 13:11:05.704 Kush[12399:c07] Finished load of: file:///Users/nulayer/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/DB4C5144-46F2-42A8-BEAE-8F2797268F15/Kush.app/www/index.html#login
+2013-09-20 13:11:37.987 Kush[12399:c07] Simulator slow-motion animations are now on
+2013-09-20 13:12:00.700 Kush[12399:2803] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+Terminating in response to SpringBoard's termination.
+2013-09-20 13:13:15.758 Kush[12758:c07] Multi-tasking -> Device: YES, App: YES
+2013-09-20 13:13:16.026 Kush[12758:c07] Resetting plugins due to page load.
+2013-09-20 13:13:16.512 Kush[12758:c07] Finished load of: file:///Users/nulayer/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/DB4C5144-46F2-42A8-BEAE-8F2797268F15/Kush.app/www/index.html
+2013-09-20 13:13:24.448 Kush[12758:c07] Resetting plugins due to page load.
+2013-09-20 13:13:24.528 Kush[12758:c07] Finished load of: file:///Users/nulayer/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/DB4C5144-46F2-42A8-BEAE-8F2797268F15/Kush.app/www/index.html
+2013-09-20 13:14:20.506 Kush[12758:c07] Resetting plugins due to page load.
+2013-09-20 13:14:22.897 Kush[12758:c07] Finished load of: file:///Users/nulayer/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/DB4C5144-46F2-42A8-BEAE-8F2797268F15/Kush.app/www/index.html#login
+2013-09-20 13:17:49.608 Kush[12758:c07] Resetting plugins due to page load.
+2013-09-20 13:17:52.091 Kush[12758:c07] Finished load of: file:///Users/nulayer/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/DB4C5144-46F2-42A8-BEAE-8F2797268F15/Kush.app/www/index.html#login
+2013-09-20 13:18:05.770 Kush[12758:c07] Resetting plugins due to page load.
+2013-09-20 13:18:07.401 Kush[12758:c07] Finished load of: file:///Users/nulayer/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/DB4C5144-46F2-42A8-BEAE-8F2797268F15/Kush.app/www/index.html#login
+2013-09-20 13:18:36.232 Kush[12758:c07] Resetting plugins due to page load.
+2013-09-20 13:18:37.585 Kush[12758:c07] Finished load of: file:///Users/nulayer/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/DB4C5144-46F2-42A8-BEAE-8F2797268F15/Kush.app/www/index.html#login
+Terminating in response to SpringBoard's termination.
