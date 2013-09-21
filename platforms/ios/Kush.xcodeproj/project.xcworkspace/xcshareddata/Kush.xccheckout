@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E307B8A5-3F3F-4F7E-A864-988EDB1C1FA5</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Kush</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B8BCF904-95A7-4D3F-93FD-3B17DB92741E</key>
+		<string>ssh://github.com/validkeys/kush-phonegap-shell.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>platforms/ios/Kush.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B8BCF904-95A7-4D3F-93FD-3B17DB92741E</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/validkeys/kush-phonegap-shell.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B8BCF904-95A7-4D3F-93FD-3B17DB92741E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B8BCF904-95A7-4D3F-93FD-3B17DB92741E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Phonegap</string>
+		</dict>
+	</array>
+</dict>
+</plist>

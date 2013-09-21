@@ -1,246 +1,464 @@
-2013-09-19 13:52:10.898 Kush[3335:c07] Multi-tasking -> Device: YES, App: YES
-2013-09-19 13:52:11.294 Kush[3335:c07] Resetting plugins due to page load.
-2013-09-19 13:52:11.364 Kush[3335:2803] ERROR whitelist rejection: url='http://fonts.googleapis.com/css?family=Droid+Sans:400,700'
-2013-09-19 13:52:11.365 Kush[3335:2803] ERROR whitelist rejection: url='http://fonts.googleapis.com/css?family=Droid+Sans:400,700'
-2013-09-19 13:52:11.366 Kush[3335:2803] ERROR whitelist rejection: url='http://fonts.googleapis.com/css?family=Droid+Sans:400,700'
-2013-09-19 13:52:11.367 Kush[3335:2803] ERROR whitelist rejection: url='http://app.kushapp.com/css/styles.min.css'
-2013-09-19 13:52:11.368 Kush[3335:2803] ERROR whitelist rejection: url='http://app.kushapp.com/css/styles.min.css'
-2013-09-19 13:52:11.368 Kush[3335:2803] ERROR whitelist rejection: url='http://app.kushapp.com/css/styles.min.css'
-2013-09-19 13:52:11.370 Kush[3335:2803] ERROR whitelist rejection: url='https://www.youtube.com/iframe_api'
-2013-09-19 13:52:11.371 Kush[3335:2803] ERROR whitelist rejection: url='https://www.youtube.com/iframe_api'
-2013-09-19 13:52:11.371 Kush[3335:2803] ERROR whitelist rejection: url='https://www.youtube.com/iframe_api'
-2013-09-19 13:52:11.372 Kush[3335:2803] ERROR whitelist rejection: url='http://app.kushapp.com/js/app.min.js'
-2013-09-19 13:52:11.373 Kush[3335:2803] ERROR whitelist rejection: url='http://app.kushapp.com/js/app.min.js'
-2013-09-19 13:52:11.373 Kush[3335:2803] ERROR whitelist rejection: url='http://app.kushapp.com/js/app.min.js'
-2013-09-19 13:52:11.410 Kush[3335:c07] Finished load of: file:///Users/nulayer/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/DB4C5144-46F2-42A8-BEAE-8F2797268F15/Kush.app/www/index.html
-2013-09-19 13:53:00.084 Kush[3335:c07] Resetting plugins due to page load.
-2013-09-19 13:53:00.094 Kush[3335:2803] ERROR whitelist rejection: url='http://fonts.googleapis.com/css?family=Droid+Sans:400,700'
-2013-09-19 13:53:00.095 Kush[3335:2803] ERROR whitelist rejection: url='http://fonts.googleapis.com/css?family=Droid+Sans:400,700'
-2013-09-19 13:53:00.095 Kush[3335:2803] ERROR whitelist rejection: url='http://fonts.googleapis.com/css?family=Droid+Sans:400,700'
-2013-09-19 13:53:00.097 Kush[3335:2803] ERROR whitelist rejection: url='http://app.kushapp.com/css/styles.min.css'
-2013-09-19 13:53:00.098 Kush[3335:2803] ERROR whitelist rejection: url='http://app.kushapp.com/css/styles.min.css'
-2013-09-19 13:53:00.098 Kush[3335:2803] ERROR whitelist rejection: url='http://app.kushapp.com/css/styles.min.css'
-2013-09-19 13:53:00.100 Kush[3335:2803] ERROR whitelist rejection: url='https://www.youtube.com/iframe_api'
-2013-09-19 13:53:00.101 Kush[3335:2803] ERROR whitelist rejection: url='https://www.youtube.com/iframe_api'
-2013-09-19 13:53:00.101 Kush[3335:2803] ERROR whitelist rejection: url='https://www.youtube.com/iframe_api'
-2013-09-19 13:53:00.103 Kush[3335:2803] ERROR whitelist rejection: url='http://app.kushapp.com/js/app.min.js'
-2013-09-19 13:53:00.104 Kush[3335:2803] ERROR whitelist rejection: url='http://app.kushapp.com/js/app.min.js'
-2013-09-19 13:53:00.105 Kush[3335:2803] ERROR whitelist rejection: url='http://app.kushapp.com/js/app.min.js'
-2013-09-19 13:53:00.139 Kush[3335:c07] Finished load of: file:///Users/nulayer/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/DB4C5144-46F2-42A8-BEAE-8F2797268F15/Kush.app/www/index.html
-2013-09-19 13:54:25.413 Kush[3661:c07] Multi-tasking -> Device: YES, App: YES
-2013-09-19 13:54:25.453 Kush[3661:c07] Resetting plugins due to page load.
-2013-09-19 13:54:25.493 Kush[3661:2803] ERROR whitelist rejection: url='http://fonts.googleapis.com/css?family=Droid+Sans:400,700'
-2013-09-19 13:54:25.493 Kush[3661:2803] ERROR whitelist rejection: url='http://fonts.googleapis.com/css?family=Droid+Sans:400,700'
-2013-09-19 13:54:25.494 Kush[3661:2803] ERROR whitelist rejection: url='http://fonts.googleapis.com/css?family=Droid+Sans:400,700'
-2013-09-19 13:54:25.497 Kush[3661:2803] ERROR whitelist rejection: url='https://www.youtube.com/iframe_api'
-2013-09-19 13:54:25.497 Kush[3661:2803] ERROR whitelist rejection: url='https://www.youtube.com/iframe_api'
-2013-09-19 13:54:25.498 Kush[3661:2803] ERROR whitelist rejection: url='https://www.youtube.com/iframe_api'
-2013-09-19 13:54:27.439 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=invites'
-2013-09-19 13:54:27.440 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=invites'
-2013-09-19 13:54:27.440 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=invites'
-2013-09-19 13:54:27.442 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=requests'
-2013-09-19 13:54:27.444 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=requests'
-2013-09-19 13:54:27.445 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=requests'
-2013-09-19 13:54:27.446 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=infos'
-2013-09-19 13:54:27.447 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=infos'
-2013-09-19 13:54:27.447 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=infos'
-2013-09-19 13:54:27.566 Kush[3661:c07] Finished load of: file:///Users/nulayer/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/DB4C5144-46F2-42A8-BEAE-8F2797268F15/Kush.app/www/index.html#login
-2013-09-19 13:54:44.196 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=invites'
-2013-09-19 13:54:44.197 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=invites'
-2013-09-19 13:54:44.197 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=invites'
-2013-09-19 13:54:44.200 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=requests'
-2013-09-19 13:54:44.201 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=requests'
-2013-09-19 13:54:44.201 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=requests'
-2013-09-19 13:54:44.203 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=infos'
-2013-09-19 13:54:44.203 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=infos'
-2013-09-19 13:54:44.204 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=infos'
-2013-09-19 13:54:49.498 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/users/login'
-2013-09-19 13:54:49.499 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/users/login'
-2013-09-19 13:54:49.499 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/users/login'
-2013-09-19 13:54:59.434 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=invites'
-2013-09-19 13:54:59.435 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=invites'
-2013-09-19 13:54:59.436 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=invites'
-2013-09-19 13:54:59.438 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=infos'
-2013-09-19 13:54:59.439 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=infos'
-2013-09-19 13:54:59.439 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=infos'
-2013-09-19 13:54:59.442 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=requests'
-2013-09-19 13:54:59.442 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=requests'
-2013-09-19 13:54:59.442 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=requests'
-2013-09-19 13:55:14.427 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=invites'
-2013-09-19 13:55:14.428 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=invites'
-2013-09-19 13:55:14.428 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=invites'
-2013-09-19 13:55:14.431 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=infos'
-2013-09-19 13:55:14.431 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=infos'
-2013-09-19 13:55:14.432 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=infos'
-2013-09-19 13:55:14.434 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=requests'
-2013-09-19 13:55:14.435 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=requests'
-2013-09-19 13:55:14.435 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=requests'
-2013-09-19 13:55:29.420 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=invites'
-2013-09-19 13:55:29.421 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=invites'
-2013-09-19 13:55:29.422 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=invites'
-2013-09-19 13:55:29.424 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=infos'
-2013-09-19 13:55:29.425 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=infos'
-2013-09-19 13:55:29.425 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=infos'
-2013-09-19 13:55:29.427 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=requests'
-2013-09-19 13:55:29.428 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=requests'
-2013-09-19 13:55:29.428 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=requests'
-2013-09-19 13:55:38.397 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/users/login'
-2013-09-19 13:55:38.397 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/users/login'
-2013-09-19 13:55:38.398 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/users/login'
-2013-09-19 13:55:44.417 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=invites'
-2013-09-19 13:55:44.418 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=invites'
-2013-09-19 13:55:44.418 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=invites'
-2013-09-19 13:55:44.421 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=infos'
-2013-09-19 13:55:44.421 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=infos'
-2013-09-19 13:55:44.422 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=infos'
-2013-09-19 13:55:44.424 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=requests'
-2013-09-19 13:55:44.424 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=requests'
-2013-09-19 13:55:44.424 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=requests'
-2013-09-19 13:55:48.138 Kush[3661:2803] ERROR whitelist rejection: url='http://fonts.googleapis.com/css?family=Droid+Sans:400,700'
-2013-09-19 13:55:48.139 Kush[3661:2803] ERROR whitelist rejection: url='http://fonts.googleapis.com/css?family=Droid+Sans:400,700'
-2013-09-19 13:55:48.139 Kush[3661:2803] ERROR whitelist rejection: url='http://fonts.googleapis.com/css?family=Droid+Sans:400,700'
-2013-09-19 13:55:48.145 Kush[3661:2803] ERROR whitelist rejection: url='https://www.youtube.com/iframe_api'
-2013-09-19 13:55:48.145 Kush[3661:2803] ERROR whitelist rejection: url='https://www.youtube.com/iframe_api'
-2013-09-19 13:55:48.146 Kush[3661:2803] ERROR whitelist rejection: url='https://www.youtube.com/iframe_api'
-2013-09-19 13:55:48.440 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=invites'
-2013-09-19 13:55:48.440 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=invites'
-2013-09-19 13:55:48.441 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=invites'
-2013-09-19 13:55:48.443 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=requests'
-2013-09-19 13:55:48.444 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=requests'
-2013-09-19 13:55:48.444 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=requests'
-2013-09-19 13:55:48.447 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=infos'
-2013-09-19 13:55:48.447 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=infos'
-2013-09-19 13:55:48.448 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=infos'
-2013-09-19 13:55:58.557 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/users/login'
-2013-09-19 13:55:58.557 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/users/login'
-2013-09-19 13:55:58.558 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/users/login'
-2013-09-19 13:56:03.948 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=invites'
-2013-09-19 13:56:03.948 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=invites'
-2013-09-19 13:56:03.949 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=invites'
-2013-09-19 13:56:03.951 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=requests'
-2013-09-19 13:56:03.952 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=requests'
-2013-09-19 13:56:03.952 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=requests'
-2013-09-19 13:56:03.955 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=infos'
-2013-09-19 13:56:03.955 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=infos'
-2013-09-19 13:56:03.956 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=infos'
-2013-09-19 13:56:05.085 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/users/login'
-2013-09-19 13:56:05.085 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/users/login'
-2013-09-19 13:56:05.086 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/users/login'
-2013-09-19 13:56:18.941 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=invites'
-2013-09-19 13:56:18.941 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=invites'
-2013-09-19 13:56:18.942 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=invites'
-2013-09-19 13:56:18.945 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=requests'
-2013-09-19 13:56:18.946 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=requests'
-2013-09-19 13:56:18.947 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=requests'
-2013-09-19 13:56:18.949 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=infos'
-2013-09-19 13:56:18.950 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=infos'
-2013-09-19 13:56:18.951 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=infos'
-2013-09-19 13:56:33.935 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=invites'
-2013-09-19 13:56:33.936 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=invites'
-2013-09-19 13:56:33.937 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=invites'
-2013-09-19 13:56:33.940 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=requests'
-2013-09-19 13:56:33.941 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=requests'
-2013-09-19 13:56:33.942 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=requests'
-2013-09-19 13:56:33.945 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=infos'
-2013-09-19 13:56:33.945 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=infos'
-2013-09-19 13:56:33.946 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=infos'
-2013-09-19 13:56:48.929 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=invites'
-2013-09-19 13:56:48.930 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=invites'
-2013-09-19 13:56:48.931 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=invites'
-2013-09-19 13:56:48.934 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=requests'
-2013-09-19 13:56:48.935 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=requests'
-2013-09-19 13:56:48.935 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=requests'
-2013-09-19 13:56:48.938 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=infos'
-2013-09-19 13:56:48.939 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=infos'
-2013-09-19 13:56:48.939 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=infos'
-2013-09-19 13:57:03.927 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=invites'
-2013-09-19 13:57:03.927 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=invites'
-2013-09-19 13:57:03.928 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=invites'
-2013-09-19 13:57:03.931 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=requests'
-2013-09-19 13:57:03.932 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=requests'
-2013-09-19 13:57:03.932 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=requests'
-2013-09-19 13:57:03.935 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=infos'
-2013-09-19 13:57:03.936 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=infos'
-2013-09-19 13:57:03.937 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=infos'
-2013-09-19 13:57:18.915 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=invites'
-2013-09-19 13:57:18.916 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=invites'
-2013-09-19 13:57:18.917 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=invites'
-2013-09-19 13:57:18.921 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=requests'
-2013-09-19 13:57:18.922 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=requests'
-2013-09-19 13:57:18.922 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=requests'
-2013-09-19 13:57:18.925 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=infos'
-2013-09-19 13:57:18.925 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=infos'
-2013-09-19 13:57:18.926 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=infos'
-2013-09-19 13:57:33.909 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=invites'
-2013-09-19 13:57:33.910 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=invites'
-2013-09-19 13:57:33.911 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=invites'
-2013-09-19 13:57:33.914 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=requests'
-2013-09-19 13:57:33.915 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=requests'
-2013-09-19 13:57:33.915 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=requests'
-2013-09-19 13:57:33.918 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=infos'
-2013-09-19 13:57:33.918 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=infos'
-2013-09-19 13:57:33.919 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=infos'
-2013-09-19 13:57:48.900 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=invites'
-2013-09-19 13:57:48.900 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=invites'
-2013-09-19 13:57:48.901 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=invites'
-2013-09-19 13:57:48.906 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=requests'
-2013-09-19 13:57:48.906 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=requests'
-2013-09-19 13:57:48.907 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=requests'
-2013-09-19 13:57:48.909 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=infos'
-2013-09-19 13:57:48.910 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=infos'
-2013-09-19 13:57:48.910 Kush[3661:2803] ERROR whitelist rejection: url='http://apikush.gopagoda.com/notifications/?type=infos'
-2013-09-19 13:57:52.398 Kush[3977:c07] Multi-tasking -> Device: YES, App: YES
-2013-09-19 13:57:52.437 Kush[3977:c07] Resetting plugins due to page load.
-2013-09-19 13:57:54.399 Kush[3977:c07] Finished load of: file:///Users/nulayer/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/DB4C5144-46F2-42A8-BEAE-8F2797268F15/Kush.app/www/index.html#login
+2013-09-21 10:14:56.882 Kush[1850:a0b] Multi-tasking -> Device: YES, App: YES
+2013-09-21 10:14:57.170 Kush[1850:a0b] Resetting plugins due to page load.
+2013-09-21 10:14:57.237 Kush[1850:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/04D8F80A-7FDC-4E1B-BBBB-39B838F70BE9/Kush.app/www/index.html
+2013-09-21 10:14:57.300 Kush[1850:a0b] Resetting plugins due to page load.
+2013-09-21 10:15:01.418 Kush[1850:a0b] Finished load of: http://app.kushapp.com/#login
+2013-09-21 10:23:44.553 Kush[2299:a0b] Multi-tasking -> Device: YES, App: YES
+2013-09-21 10:23:44.853 Kush[2299:a0b] Resetting plugins due to page load.
+2013-09-21 10:23:44.922 Kush[2299:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/04D8F80A-7FDC-4E1B-BBBB-39B838F70BE9/Kush.app/www/index.html
+2013-09-21 10:23:44.987 Kush[2299:a0b] Resetting plugins due to page load.
+2013-09-21 10:23:47.167 Kush[2299:a0b] Finished load of: http://app.kushapp.com/#login
+2013-09-21 10:32:58.045 Kush[3358:a0b] Multi-tasking -> Device: YES, App: YES
+2013-09-21 10:32:58.330 Kush[3358:a0b] Resetting plugins due to page load.
+2013-09-21 10:32:58.406 Kush[3358:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/04D8F80A-7FDC-4E1B-BBBB-39B838F70BE9/Kush.app/www/index.html
+2013-09-21 10:32:58.418 Kush[3358:a0b] Resetting plugins due to page load.
+2013-09-21 10:33:01.367 Kush[3358:a0b] Finished load of: http://app.kushapp.com/#login
+2013-09-21 10:47:25.822 Kush[4799:a0b] Multi-tasking -> Device: YES, App: YES
+2013-09-21 10:47:26.163 Kush[4799:a0b] Resetting plugins due to page load.
+2013-09-21 10:47:26.329 Kush[4799:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/04D8F80A-7FDC-4E1B-BBBB-39B838F70BE9/Kush.app/www/index.html
+2013-09-21 10:47:26.390 Kush[4799:a0b] Resetting plugins due to page load.
+2013-09-21 10:47:26.549 Kush[4799:a0b] Failed to load webpage with error: Could not connect to the server.
+2013-09-21 10:48:00.611 Kush[4799:a0b] Resetting plugins due to page load.
+2013-09-21 10:48:00.662 Kush[4799:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/04D8F80A-7FDC-4E1B-BBBB-39B838F70BE9/Kush.app/www/index.html
+2013-09-21 10:48:00.698 Kush[4799:a0b] Resetting plugins due to page load.
+2013-09-21 10:48:00.704 Kush[4799:a0b] Failed to load webpage with error: Could not connect to the server.
+2013-09-21 10:48:38.349 Kush[4799:a0b] Resetting plugins due to page load.
+2013-09-21 10:48:38.407 Kush[4799:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/04D8F80A-7FDC-4E1B-BBBB-39B838F70BE9/Kush.app/www/index.html
+2013-09-21 10:48:38.446 Kush[4799:a0b] Resetting plugins due to page load.
+2013-09-21 10:48:39.273 Kush[4799:a0b] Finished load of: http://kyle.local:9000/#login
+2013-09-21 11:30:31.302 Kush[7377:a0b] Multi-tasking -> Device: YES, App: YES
+2013-09-21 11:30:31.356 Kush[7377:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 149] App Key: naPzDmqoQJCQFojd3YiWcg
+2013-09-21 11:30:31.358 Kush[7377:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 150] App Secret: riEKMVgcRZmRf22o3KCatw
+2013-09-21 11:30:31.359 Kush[7377:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 151] Server: https://device-api.urbanairship.com
+2013-09-21 11:30:31.361 Kush[7377:a0b] [D] -[UAirship configureUserAgent] [Line 288] Setting User-Agent for UA requests to Kush 1.0.0 (iPhone Simulator; iPhone OS 7.0; UALib 2.0.3; naPzDmqoQJCQFojd3YiWcg; en_US)
+2013-09-21 11:30:31.367 Kush[7377:a0b] [D] void PrintReachabilityFlags(SCNetworkReachabilityFlags, const char *) [Line 79] Reachability Flag Status: -R -----l- networkStatusForFlags
+2013-09-21 11:30:31.405 Kush[7377:a0b] [D] +[UAKeychainUtils getDeviceID] [Line 260] Device model changed. Regenerating the device ID.
+2013-09-21 11:30:31.430 Kush[7377:a0b] [D] +[UAKeychainUtils getDeviceID] [Line 263] New device ID: 2D4C3EBF-3676-4DF0-A0B1-571CFDEE7242
+2013-09-21 11:30:31.438 Kush[7377:a0b] [D] -[UAUserAPIClient requestToCreateUserWithDeviceToken:] [Line 60] Request to create user with body: {"ua_device_id":"2D4C3EBF-3676-4DF0-A0B1-571CFDEE7242"}
+2013-09-21 11:30:31.447 Kush[7377:a0b] [CDVTimer][pushnotificationplugin] 100.912988ms
+2013-09-21 11:30:31.453 Kush[7377:a0b] [CDVTimer][TotalPluginStartup] 103.259027ms
+2013-09-21 11:30:31.485 Kush[7377:a0b] active
+2013-09-21 11:30:31.769 Kush[7377:a0b] Resetting plugins due to page load.
+2013-09-21 11:30:31.771 Kush[7377:a0b] [E] -[UAAutoAppDelegate application:didFailToRegisterForRemoteNotificationsWithError:] [Line 43] Failed To Register For Remote Notifications With Error: Error Domain=NSCocoaErrorDomain Code=3010 "remote notifications are not supported in the simulator" UserInfo=0xc2c67a0 {NSLocalizedDescription=remote notifications are not supported in the simulator}
+2013-09-21 11:30:31.881 Kush[7377:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/04D8F80A-7FDC-4E1B-BBBB-39B838F70BE9/Kush.app/www/index.html
+2013-09-21 11:30:32.053 Kush[7377:a0b] [D] -[UAUser updateDefaultDeviceToken] [Line 250] Skipping device token update: no token, already up to date, or user is being updated.
+2013-09-21 11:30:46.619 Kush[7377:a0b] [D] __39-[UAAnalytics sendOperationWithEvents:]_block_invoke [Line 622] Analytics data sent successfully. Status: 200
+2013-09-21 11:33:59.111 Kush[7783:a0b] Multi-tasking -> Device: YES, App: YES
+2013-09-21 11:33:59.155 Kush[7783:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 149] App Key: naPzDmqoQJCQFojd3YiWcg
+2013-09-21 11:33:59.160 Kush[7783:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 150] App Secret: riEKMVgcRZmRf22o3KCatw
+2013-09-21 11:33:59.161 Kush[7783:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 151] Server: https://device-api.urbanairship.com
+2013-09-21 11:33:59.163 Kush[7783:a0b] [D] -[UAirship configureUserAgent] [Line 288] Setting User-Agent for UA requests to Kush 1.0.0 (iPhone Simulator; iPhone OS 7.0; UALib 2.0.3; naPzDmqoQJCQFojd3YiWcg; en_US)
+2013-09-21 11:33:59.166 Kush[7783:a0b] [D] void PrintReachabilityFlags(SCNetworkReachabilityFlags, const char *) [Line 79] Reachability Flag Status: -R -----l- networkStatusForFlags
+2013-09-21 11:33:59.178 Kush[7783:a0b] [CDVTimer][pushnotificationplugin] 33.957005ms
+2013-09-21 11:33:59.178 Kush[7783:a0b] [CDVTimer][TotalPluginStartup] 34.785986ms
+2013-09-21 11:33:59.200 Kush[7783:a0b] active
+2013-09-21 11:33:59.524 Kush[7783:a0b] Resetting plugins due to page load.
+2013-09-21 11:33:59.526 Kush[7783:a0b] [E] -[UAAutoAppDelegate application:didFailToRegisterForRemoteNotificationsWithError:] [Line 43] Failed To Register For Remote Notifications With Error: Error Domain=NSCocoaErrorDomain Code=3010 "remote notifications are not supported in the simulator" UserInfo=0xc066210 {NSLocalizedDescription=remote notifications are not supported in the simulator}
+2013-09-21 11:33:59.629 Kush[7783:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/04D8F80A-7FDC-4E1B-BBBB-39B838F70BE9/Kush.app/www/index.html
+2013-09-21 11:34:14.175 Kush[7783:4d0f] [D] +[UAKeychainUtils getDeviceID] [Line 236] Retrieved device id info from keychain.
+2013-09-21 11:34:14.175 Kush[7783:4d0f] [D] +[UAKeychainUtils getDeviceID] [Line 246] Loaded Device ID: 2D4C3EBF-3676-4DF0-A0B1-571CFDEE7242
+2013-09-21 11:34:14.175 Kush[7783:4d0f] [D] +[UAKeychainUtils getDeviceID] [Line 247] Loaded Model Name: x86_64
+2013-09-21 11:34:14.436 Kush[7783:a0b] [D] __39-[UAAnalytics sendOperationWithEvents:]_block_invoke [Line 622] Analytics data sent successfully. Status: 200
+2013-09-21 11:35:29.002 Kush[8173:a0b] Multi-tasking -> Device: YES, App: YES
+2013-09-21 11:35:29.065 Kush[8173:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 149] App Key: naPzDmqoQJCQFojd3YiWcg
+2013-09-21 11:35:29.067 Kush[8173:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 150] App Secret: riEKMVgcRZmRf22o3KCatw
+2013-09-21 11:35:29.068 Kush[8173:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 151] Server: https://device-api.urbanairship.com
+2013-09-21 11:35:29.081 Kush[8173:a0b] [D] -[UAirship configureUserAgent] [Line 288] Setting User-Agent for UA requests to Kush 1.0.0 (iPhone Simulator; iPhone OS 7.0; UALib 2.0.3; naPzDmqoQJCQFojd3YiWcg; en_US)
+2013-09-21 11:35:29.093 Kush[8173:a0b] [D] void PrintReachabilityFlags(SCNetworkReachabilityFlags, const char *) [Line 79] Reachability Flag Status: -R -----l- networkStatusForFlags
+2013-09-21 11:35:29.429 Kush[8173:a0b] [CDVTimer][pushnotificationplugin] 396.650016ms
+2013-09-21 11:35:29.429 Kush[8173:a0b] [CDVTimer][TotalPluginStartup] 397.382975ms
+2013-09-21 11:35:29.517 Kush[8173:a0b] active
+2013-09-21 11:35:29.814 Kush[8173:a0b] Resetting plugins due to page load.
+2013-09-21 11:35:29.822 Kush[8173:a0b] [E] -[UAAutoAppDelegate application:didFailToRegisterForRemoteNotificationsWithError:] [Line 43] Failed To Register For Remote Notifications With Error: Error Domain=NSCocoaErrorDomain Code=3010 "remote notifications are not supported in the simulator" UserInfo=0xc0228c0 {NSLocalizedDescription=remote notifications are not supported in the simulator}
+2013-09-21 11:35:29.908 Kush[8173:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/04D8F80A-7FDC-4E1B-BBBB-39B838F70BE9/Kush.app/www/index.html
+2013-09-21 11:35:44.102 Kush[8173:1003] [D] +[UAKeychainUtils getDeviceID] [Line 236] Retrieved device id info from keychain.
+2013-09-21 11:35:44.103 Kush[8173:1003] [D] +[UAKeychainUtils getDeviceID] [Line 246] Loaded Device ID: 2D4C3EBF-3676-4DF0-A0B1-571CFDEE7242
+2013-09-21 11:35:44.103 Kush[8173:1003] [D] +[UAKeychainUtils getDeviceID] [Line 247] Loaded Model Name: x86_64
+2013-09-21 11:35:44.370 Kush[8173:a0b] [D] __39-[UAAnalytics sendOperationWithEvents:]_block_invoke [Line 622] Analytics data sent successfully. Status: 200
+2013-09-21 11:36:18.219 Kush[8555:a0b] Multi-tasking -> Device: YES, App: YES
+2013-09-21 11:36:18.261 Kush[8555:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 149] App Key: naPzDmqoQJCQFojd3YiWcg
+2013-09-21 11:36:18.262 Kush[8555:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 150] App Secret: riEKMVgcRZmRf22o3KCatw
+2013-09-21 11:36:18.263 Kush[8555:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 151] Server: https://device-api.urbanairship.com
+2013-09-21 11:36:18.270 Kush[8555:a0b] [D] -[UAirship configureUserAgent] [Line 288] Setting User-Agent for UA requests to Kush 1.0.0 (iPhone Simulator; iPhone OS 7.0; UALib 2.0.3; naPzDmqoQJCQFojd3YiWcg; en_US)
+2013-09-21 11:36:18.274 Kush[8555:a0b] [D] void PrintReachabilityFlags(SCNetworkReachabilityFlags, const char *) [Line 79] Reachability Flag Status: -R -----l- networkStatusForFlags
+2013-09-21 11:36:18.283 Kush[8555:a0b] [CDVTimer][pushnotificationplugin] 29.765010ms
+2013-09-21 11:36:18.284 Kush[8555:a0b] [CDVTimer][TotalPluginStartup] 31.355023ms
+2013-09-21 11:36:18.306 Kush[8555:a0b] active
+2013-09-21 11:36:18.404 Kush[8555:a0b] [E] -[UAAutoAppDelegate application:didFailToRegisterForRemoteNotificationsWithError:] [Line 43] Failed To Register For Remote Notifications With Error: Error Domain=NSCocoaErrorDomain Code=3010 "remote notifications are not supported in the simulator" UserInfo=0xb38b970 {NSLocalizedDescription=remote notifications are not supported in the simulator}
+2013-09-21 11:36:18.429 Kush[8555:a0b] Resetting plugins due to page load.
+2013-09-21 11:36:18.547 Kush[8555:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/04D8F80A-7FDC-4E1B-BBBB-39B838F70BE9/Kush.app/www/index.html
+2013-09-21 11:36:59.282 Kush[8555:1003] [D] +[UAKeychainUtils getDeviceID] [Line 236] Retrieved device id info from keychain.
+2013-09-21 11:36:59.282 Kush[8555:1003] [D] +[UAKeychainUtils getDeviceID] [Line 246] Loaded Device ID: 2D4C3EBF-3676-4DF0-A0B1-571CFDEE7242
+2013-09-21 11:36:59.282 Kush[8555:1003] [D] +[UAKeychainUtils getDeviceID] [Line 247] Loaded Model Name: x86_64
+2013-09-21 11:36:59.479 Kush[8555:a0b] [D] __39-[UAAnalytics sendOperationWithEvents:]_block_invoke [Line 622] Analytics data sent successfully. Status: 200
+2013-09-21 11:37:19.286 Kush[8939:a0b] Multi-tasking -> Device: YES, App: YES
+2013-09-21 11:37:19.330 Kush[8939:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 149] App Key: naPzDmqoQJCQFojd3YiWcg
+2013-09-21 11:37:19.332 Kush[8939:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 150] App Secret: riEKMVgcRZmRf22o3KCatw
+2013-09-21 11:37:19.333 Kush[8939:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 151] Server: https://device-api.urbanairship.com
+2013-09-21 11:37:19.338 Kush[8939:a0b] [D] -[UAirship configureUserAgent] [Line 288] Setting User-Agent for UA requests to Kush 1.0.0 (iPhone Simulator; iPhone OS 7.0; UALib 2.0.3; naPzDmqoQJCQFojd3YiWcg; en_US)
+2013-09-21 11:37:19.341 Kush[8939:a0b] [D] void PrintReachabilityFlags(SCNetworkReachabilityFlags, const char *) [Line 79] Reachability Flag Status: -R -----l- networkStatusForFlags
+2013-09-21 11:37:19.361 Kush[8939:a0b] [CDVTimer][pushnotificationplugin] 39.569974ms
+2013-09-21 11:37:19.362 Kush[8939:a0b] [CDVTimer][TotalPluginStartup] 40.678978ms
+2013-09-21 11:37:19.387 Kush[8939:a0b] active
+2013-09-21 11:37:19.689 Kush[8939:a0b] Resetting plugins due to page load.
+2013-09-21 11:37:19.694 Kush[8939:a0b] [E] -[UAAutoAppDelegate application:didFailToRegisterForRemoteNotificationsWithError:] [Line 43] Failed To Register For Remote Notifications With Error: Error Domain=NSCocoaErrorDomain Code=3010 "remote notifications are not supported in the simulator" UserInfo=0xc492ca0 {NSLocalizedDescription=remote notifications are not supported in the simulator}
+2013-09-21 11:37:19.789 Kush[8939:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/04D8F80A-7FDC-4E1B-BBBB-39B838F70BE9/Kush.app/www/index.html
+2013-09-21 11:37:34.349 Kush[8939:1203] [D] +[UAKeychainUtils getDeviceID] [Line 236] Retrieved device id info from keychain.
+2013-09-21 11:37:34.349 Kush[8939:1203] [D] +[UAKeychainUtils getDeviceID] [Line 246] Loaded Device ID: 2D4C3EBF-3676-4DF0-A0B1-571CFDEE7242
+2013-09-21 11:37:34.350 Kush[8939:1203] [D] +[UAKeychainUtils getDeviceID] [Line 247] Loaded Model Name: x86_64
+2013-09-21 11:37:34.585 Kush[8939:a0b] [D] __39-[UAAnalytics sendOperationWithEvents:]_block_invoke [Line 622] Analytics data sent successfully. Status: 200
+2013-09-21 11:39:32.903 Kush[9336:a0b] Multi-tasking -> Device: YES, App: YES
+2013-09-21 11:39:32.947 Kush[9336:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 149] App Key: naPzDmqoQJCQFojd3YiWcg
+2013-09-21 11:39:32.949 Kush[9336:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 150] App Secret: riEKMVgcRZmRf22o3KCatw
+2013-09-21 11:39:32.950 Kush[9336:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 151] Server: https://device-api.urbanairship.com
+2013-09-21 11:39:32.951 Kush[9336:a0b] [D] -[UAirship configureUserAgent] [Line 288] Setting User-Agent for UA requests to Kush 1.0.0 (iPhone Simulator; iPhone OS 7.0; UALib 2.0.3; naPzDmqoQJCQFojd3YiWcg; en_US)
+2013-09-21 11:39:32.956 Kush[9336:a0b] [D] void PrintReachabilityFlags(SCNetworkReachabilityFlags, const char *) [Line 79] Reachability Flag Status: -R -----l- networkStatusForFlags
+2013-09-21 11:39:32.965 Kush[9336:a0b] [CDVTimer][pushnotificationplugin] 25.676012ms
+2013-09-21 11:39:32.966 Kush[9336:a0b] [CDVTimer][TotalPluginStartup] 26.335001ms
+2013-09-21 11:39:32.984 Kush[9336:a0b] active
+2013-09-21 11:39:33.263 Kush[9336:a0b] Resetting plugins due to page load.
+2013-09-21 11:39:33.265 Kush[9336:a0b] [E] -[UAAutoAppDelegate application:didFailToRegisterForRemoteNotificationsWithError:] [Line 43] Failed To Register For Remote Notifications With Error: Error Domain=NSCocoaErrorDomain Code=3010 "remote notifications are not supported in the simulator" UserInfo=0xc35d8b0 {NSLocalizedDescription=remote notifications are not supported in the simulator}
+2013-09-21 11:39:33.353 Kush[9336:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/04D8F80A-7FDC-4E1B-BBBB-39B838F70BE9/Kush.app/www/index.html
+2013-09-21 11:39:47.961 Kush[9336:5307] [D] +[UAKeychainUtils getDeviceID] [Line 236] Retrieved device id info from keychain.
+2013-09-21 11:39:47.961 Kush[9336:5307] [D] +[UAKeychainUtils getDeviceID] [Line 246] Loaded Device ID: 2D4C3EBF-3676-4DF0-A0B1-571CFDEE7242
+2013-09-21 11:39:47.962 Kush[9336:5307] [D] +[UAKeychainUtils getDeviceID] [Line 247] Loaded Model Name: x86_64
+2013-09-21 11:39:48.196 Kush[9336:a0b] [D] __39-[UAAnalytics sendOperationWithEvents:]_block_invoke [Line 622] Analytics data sent successfully. Status: 200
+2013-09-21 11:40:17.245 Kush[9719:a0b] Multi-tasking -> Device: YES, App: YES
+2013-09-21 11:40:17.289 Kush[9719:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 149] App Key: naPzDmqoQJCQFojd3YiWcg
+2013-09-21 11:40:17.291 Kush[9719:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 150] App Secret: riEKMVgcRZmRf22o3KCatw
+2013-09-21 11:40:17.293 Kush[9719:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 151] Server: https://device-api.urbanairship.com
+2013-09-21 11:40:17.297 Kush[9719:a0b] [D] -[UAirship configureUserAgent] [Line 288] Setting User-Agent for UA requests to Kush 1.0.0 (iPhone Simulator; iPhone OS 7.0; UALib 2.0.3; naPzDmqoQJCQFojd3YiWcg; en_US)
+2013-09-21 11:40:17.302 Kush[9719:a0b] [D] void PrintReachabilityFlags(SCNetworkReachabilityFlags, const char *) [Line 79] Reachability Flag Status: -R -----l- networkStatusForFlags
+2013-09-21 11:40:17.312 Kush[9719:a0b] [CDVTimer][pushnotificationplugin] 32.970011ms
+2013-09-21 11:40:17.314 Kush[9719:a0b] [CDVTimer][TotalPluginStartup] 34.509957ms
+2013-09-21 11:40:17.338 Kush[9719:a0b] active
+2013-09-21 11:40:17.620 Kush[9719:a0b] Resetting plugins due to page load.
+2013-09-21 11:40:17.623 Kush[9719:a0b] [E] -[UAAutoAppDelegate application:didFailToRegisterForRemoteNotificationsWithError:] [Line 43] Failed To Register For Remote Notifications With Error: Error Domain=NSCocoaErrorDomain Code=3010 "remote notifications are not supported in the simulator" UserInfo=0xc882bd0 {NSLocalizedDescription=remote notifications are not supported in the simulator}
+2013-09-21 11:40:17.703 Kush[9719:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/04D8F80A-7FDC-4E1B-BBBB-39B838F70BE9/Kush.app/www/index.html
+2013-09-21 11:41:02.311 Kush[9719:1203] [D] +[UAKeychainUtils getDeviceID] [Line 236] Retrieved device id info from keychain.
+2013-09-21 11:41:02.311 Kush[9719:1203] [D] +[UAKeychainUtils getDeviceID] [Line 246] Loaded Device ID: 2D4C3EBF-3676-4DF0-A0B1-571CFDEE7242
+2013-09-21 11:41:02.312 Kush[9719:1203] [D] +[UAKeychainUtils getDeviceID] [Line 247] Loaded Model Name: x86_64
+2013-09-21 11:41:05.500 Kush[9719:a0b] [D] __39-[UAAnalytics sendOperationWithEvents:]_block_invoke [Line 622] Analytics data sent successfully. Status: 200
+2013-09-21 11:41:32.700 Kush[10111:a0b] Multi-tasking -> Device: YES, App: YES
+2013-09-21 11:41:32.737 Kush[10111:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 149] App Key: naPzDmqoQJCQFojd3YiWcg
+2013-09-21 11:41:32.739 Kush[10111:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 150] App Secret: riEKMVgcRZmRf22o3KCatw
+2013-09-21 11:41:32.740 Kush[10111:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 151] Server: https://device-api.urbanairship.com
+2013-09-21 11:41:32.741 Kush[10111:a0b] [D] -[UAirship configureUserAgent] [Line 288] Setting User-Agent for UA requests to Kush 1.0.0 (iPhone Simulator; iPhone OS 7.0; UALib 2.0.3; naPzDmqoQJCQFojd3YiWcg; en_US)
+2013-09-21 11:41:32.747 Kush[10111:a0b] [D] void PrintReachabilityFlags(SCNetworkReachabilityFlags, const char *) [Line 79] Reachability Flag Status: -R -----l- networkStatusForFlags
+2013-09-21 11:41:32.753 Kush[10111:a0b] [CDVTimer][pushnotificationplugin] 24.415970ms
+2013-09-21 11:41:32.754 Kush[10111:a0b] [CDVTimer][TotalPluginStartup] 25.610030ms
+2013-09-21 11:41:32.773 Kush[10111:a0b] active
+2013-09-21 11:41:33.039 Kush[10111:a0b] Resetting plugins due to page load.
+2013-09-21 11:41:33.041 Kush[10111:a0b] [E] -[UAAutoAppDelegate application:didFailToRegisterForRemoteNotificationsWithError:] [Line 43] Failed To Register For Remote Notifications With Error: Error Domain=NSCocoaErrorDomain Code=3010 "remote notifications are not supported in the simulator" UserInfo=0xc87b6f0 {NSLocalizedDescription=remote notifications are not supported in the simulator}
+2013-09-21 11:41:33.109 Kush[10111:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/04D8F80A-7FDC-4E1B-BBBB-39B838F70BE9/Kush.app/www/index.html
+2013-09-21 11:42:05.947 Kush[10111:a0b] Resetting plugins due to page load.
+2013-09-21 11:42:06.006 Kush[10111:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/04D8F80A-7FDC-4E1B-BBBB-39B838F70BE9/Kush.app/www/index.html
+2013-09-21 11:42:07.490 Kush[10111:a0b] Resetting plugins due to page load.
+2013-09-21 11:42:07.539 Kush[10111:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/04D8F80A-7FDC-4E1B-BBBB-39B838F70BE9/Kush.app/www/index.html
+2013-09-21 11:42:19.754 Kush[10111:1003] [D] +[UAKeychainUtils getDeviceID] [Line 236] Retrieved device id info from keychain.
+2013-09-21 11:42:19.754 Kush[10111:1003] [D] +[UAKeychainUtils getDeviceID] [Line 246] Loaded Device ID: 2D4C3EBF-3676-4DF0-A0B1-571CFDEE7242
+2013-09-21 11:42:19.754 Kush[10111:1003] [D] +[UAKeychainUtils getDeviceID] [Line 247] Loaded Model Name: x86_64
+2013-09-21 11:42:19.914 Kush[10111:a0b] [D] __39-[UAAnalytics sendOperationWithEvents:]_block_invoke [Line 622] Analytics data sent successfully. Status: 200
+2013-09-21 11:42:24.794 Kush[10111:a0b] Resetting plugins due to page load.
+2013-09-21 11:42:24.860 Kush[10111:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/04D8F80A-7FDC-4E1B-BBBB-39B838F70BE9/Kush.app/www/index.html
+2013-09-21 11:42:47.555 Kush[10501:a0b] Multi-tasking -> Device: YES, App: YES
+2013-09-21 11:42:47.608 Kush[10501:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 149] App Key: naPzDmqoQJCQFojd3YiWcg
+2013-09-21 11:42:47.609 Kush[10501:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 150] App Secret: riEKMVgcRZmRf22o3KCatw
+2013-09-21 11:42:47.610 Kush[10501:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 151] Server: https://device-api.urbanairship.com
+2013-09-21 11:42:47.612 Kush[10501:a0b] [D] -[UAirship configureUserAgent] [Line 288] Setting User-Agent for UA requests to Kush 1.0.0 (iPhone Simulator; iPhone OS 7.0; UALib 2.0.3; naPzDmqoQJCQFojd3YiWcg; en_US)
+2013-09-21 11:42:47.614 Kush[10501:a0b] [D] void PrintReachabilityFlags(SCNetworkReachabilityFlags, const char *) [Line 79] Reachability Flag Status: -R -----l- networkStatusForFlags
+2013-09-21 11:42:47.624 Kush[10501:a0b] [CDVTimer][pushnotificationplugin] 24.769008ms
+2013-09-21 11:42:47.626 Kush[10501:a0b] [CDVTimer][TotalPluginStartup] 27.164996ms
+2013-09-21 11:42:47.650 Kush[10501:a0b] active
+2013-09-21 11:42:47.915 Kush[10501:a0b] Resetting plugins due to page load.
+2013-09-21 11:42:47.921 Kush[10501:a0b] [E] -[UAAutoAppDelegate application:didFailToRegisterForRemoteNotificationsWithError:] [Line 43] Failed To Register For Remote Notifications With Error: Error Domain=NSCocoaErrorDomain Code=3010 "remote notifications are not supported in the simulator" UserInfo=0xb37cee0 {NSLocalizedDescription=remote notifications are not supported in the simulator}
+2013-09-21 11:42:50.674 Kush[10501:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/04D8F80A-7FDC-4E1B-BBBB-39B838F70BE9/Kush.app/www/index.html
+2013-09-21 11:43:08.603 Kush[10501:a0b] Resetting plugins due to page load.
+2013-09-21 11:43:12.010 Kush[10501:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/04D8F80A-7FDC-4E1B-BBBB-39B838F70BE9/Kush.app/www/index.html
+2013-09-21 11:43:26.410 Kush[10501:a0b] Resetting plugins due to page load.
+2013-09-21 11:43:28.009 Kush[10501:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/04D8F80A-7FDC-4E1B-BBBB-39B838F70BE9/Kush.app/www/index.html
+2013-09-21 11:43:34.623 Kush[10501:1203] [D] +[UAKeychainUtils getDeviceID] [Line 236] Retrieved device id info from keychain.
+2013-09-21 11:43:34.623 Kush[10501:1203] [D] +[UAKeychainUtils getDeviceID] [Line 246] Loaded Device ID: 2D4C3EBF-3676-4DF0-A0B1-571CFDEE7242
+2013-09-21 11:43:34.623 Kush[10501:1203] [D] +[UAKeychainUtils getDeviceID] [Line 247] Loaded Model Name: x86_64
+2013-09-21 11:43:34.873 Kush[10501:a0b] [D] __39-[UAAnalytics sendOperationWithEvents:]_block_invoke [Line 622] Analytics data sent successfully. Status: 200
+2013-09-21 11:48:39.685 Kush[10968:a0b] Multi-tasking -> Device: YES, App: YES
+2013-09-21 11:48:39.777 Kush[10968:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 149] App Key: naPzDmqoQJCQFojd3YiWcg
+2013-09-21 11:48:39.789 Kush[10968:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 150] App Secret: riEKMVgcRZmRf22o3KCatw
+2013-09-21 11:48:39.796 Kush[10968:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 151] Server: https://device-api.urbanairship.com
+2013-09-21 11:48:39.798 Kush[10968:a0b] [D] -[UAirship configureUserAgent] [Line 288] Setting User-Agent for UA requests to Kush 1.0.0 (iPhone Simulator; iPhone OS 7.0; UALib 2.0.3; naPzDmqoQJCQFojd3YiWcg; en_US)
+2013-09-21 11:48:39.805 Kush[10968:a0b] [D] void PrintReachabilityFlags(SCNetworkReachabilityFlags, const char *) [Line 79] Reachability Flag Status: -R -----l- networkStatusForFlags
+2013-09-21 11:48:39.819 Kush[10968:a0b] [CDVTimer][pushnotificationplugin] 51.607013ms
+2013-09-21 11:48:39.823 Kush[10968:a0b] [CDVTimer][TotalPluginStartup] 55.414021ms
+2013-09-21 11:48:39.852 Kush[10968:a0b] active
+2013-09-21 11:48:40.132 Kush[10968:a0b] Resetting plugins due to page load.
+2013-09-21 11:48:40.134 Kush[10968:a0b] [E] -[UAAutoAppDelegate application:didFailToRegisterForRemoteNotificationsWithError:] [Line 43] Failed To Register For Remote Notifications With Error: Error Domain=NSCocoaErrorDomain Code=3010 "remote notifications are not supported in the simulator" UserInfo=0xc344760 {NSLocalizedDescription=remote notifications are not supported in the simulator}
+2013-09-21 11:48:40.404 Kush[10968:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/04D8F80A-7FDC-4E1B-BBBB-39B838F70BE9/Kush.app/www/index.html
+2013-09-21 11:48:45.084 Kush[10968:a0b] Resetting plugins due to page load.
+2013-09-21 11:48:45.132 Kush[10968:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/04D8F80A-7FDC-4E1B-BBBB-39B838F70BE9/Kush.app/www/index.html
+2013-09-21 11:48:54.816 Kush[10968:1003] [D] +[UAKeychainUtils getDeviceID] [Line 236] Retrieved device id info from keychain.
+2013-09-21 11:48:54.816 Kush[10968:1003] [D] +[UAKeychainUtils getDeviceID] [Line 246] Loaded Device ID: 2D4C3EBF-3676-4DF0-A0B1-571CFDEE7242
+2013-09-21 11:48:54.816 Kush[10968:1003] [D] +[UAKeychainUtils getDeviceID] [Line 247] Loaded Model Name: x86_64
+2013-09-21 11:48:55.018 Kush[10968:a0b] [D] __39-[UAAnalytics sendOperationWithEvents:]_block_invoke [Line 622] Analytics data sent successfully. Status: 200
+2013-09-21 11:53:31.924 Kush[11398:a0b] Multi-tasking -> Device: YES, App: YES
+2013-09-21 11:53:31.969 Kush[11398:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 149] App Key: naPzDmqoQJCQFojd3YiWcg
+2013-09-21 11:53:31.970 Kush[11398:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 150] App Secret: riEKMVgcRZmRf22o3KCatw
+2013-09-21 11:53:31.972 Kush[11398:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 151] Server: https://device-api.urbanairship.com
+2013-09-21 11:53:31.980 Kush[11398:a0b] [D] -[UAirship configureUserAgent] [Line 288] Setting User-Agent for UA requests to Kush 1.0.0 (iPhone Simulator; iPhone OS 7.0; UALib 2.0.3; naPzDmqoQJCQFojd3YiWcg; en_US)
+2013-09-21 11:53:32.041 Kush[11398:a0b] [D] void PrintReachabilityFlags(SCNetworkReachabilityFlags, const char *) [Line 79] Reachability Flag Status: -R -----l- networkStatusForFlags
+2013-09-21 11:53:32.063 Kush[11398:a0b] [CDVTimer][pushnotificationplugin] 102.642000ms
+2013-09-21 11:53:32.064 Kush[11398:a0b] [CDVTimer][TotalPluginStartup] 103.609979ms
+2013-09-21 11:53:32.086 Kush[11398:a0b] active
+2013-09-21 11:53:32.336 Kush[11398:a0b] Resetting plugins due to page load.
+2013-09-21 11:53:32.341 Kush[11398:a0b] [E] -[UAAutoAppDelegate application:didFailToRegisterForRemoteNotificationsWithError:] [Line 43] Failed To Register For Remote Notifications With Error: Error Domain=NSCocoaErrorDomain Code=3010 "remote notifications are not supported in the simulator" UserInfo=0xc490660 {NSLocalizedDescription=remote notifications are not supported in the simulator}
+2013-09-21 11:53:32.424 Kush[11398:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/04D8F80A-7FDC-4E1B-BBBB-39B838F70BE9/Kush.app/www/index.html
+2013-09-21 11:53:47.053 Kush[11398:1203] [D] +[UAKeychainUtils getDeviceID] [Line 236] Retrieved device id info from keychain.
+2013-09-21 11:53:47.054 Kush[11398:1203] [D] +[UAKeychainUtils getDeviceID] [Line 246] Loaded Device ID: 2D4C3EBF-3676-4DF0-A0B1-571CFDEE7242
+2013-09-21 11:53:47.054 Kush[11398:1203] [D] +[UAKeychainUtils getDeviceID] [Line 247] Loaded Model Name: x86_64
+2013-09-21 11:53:47.226 Kush[11398:a0b] [D] __39-[UAAnalytics sendOperationWithEvents:]_block_invoke [Line 622] Analytics data sent successfully. Status: 200
+2013-09-21 14:18:59.082 Kush[19973:a0b] Multi-tasking -> Device: YES, App: YES
+2013-09-21 14:18:59.154 Kush[19973:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 149] App Key: naPzDmqoQJCQFojd3YiWcg
+2013-09-21 14:18:59.157 Kush[19973:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 150] App Secret: riEKMVgcRZmRf22o3KCatw
+2013-09-21 14:18:59.177 Kush[19973:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 151] Server: https://device-api.urbanairship.com
+2013-09-21 14:18:59.203 Kush[19973:a0b] [D] -[UAirship configureUserAgent] [Line 288] Setting User-Agent for UA requests to Kush 1.0.0 (iPhone Simulator; iPhone OS 7.0; UALib 2.0.3; naPzDmqoQJCQFojd3YiWcg; en_US)
+2013-09-21 14:18:59.251 Kush[19973:a0b] [D] void PrintReachabilityFlags(SCNetworkReachabilityFlags, const char *) [Line 79] Reachability Flag Status: -R -----l- networkStatusForFlags
+2013-09-21 14:18:59.289 Kush[19973:a0b] [CDVTimer][pushnotificationplugin] 149.145961ms
+2013-09-21 14:18:59.290 Kush[19973:a0b] [CDVTimer][TotalPluginStartup] 150.375009ms
+2013-09-21 14:18:59.324 Kush[19973:a0b] active
+2013-09-21 14:18:59.657 Kush[19973:a0b] Resetting plugins due to page load.
+2013-09-21 14:18:59.661 Kush[19973:a0b] [E] -[UAAutoAppDelegate application:didFailToRegisterForRemoteNotificationsWithError:] [Line 43] Failed To Register For Remote Notifications With Error: Error Domain=NSCocoaErrorDomain Code=3010 "remote notifications are not supported in the simulator" UserInfo=0xb399720 {NSLocalizedDescription=remote notifications are not supported in the simulator}
+2013-09-21 14:18:59.788 Kush[19973:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/04D8F80A-7FDC-4E1B-BBBB-39B838F70BE9/Kush.app/www/index.html
+2013-09-21 14:19:14.277 Kush[19973:1003] [D] +[UAKeychainUtils getDeviceID] [Line 236] Retrieved device id info from keychain.
+2013-09-21 14:19:14.277 Kush[19973:1003] [D] +[UAKeychainUtils getDeviceID] [Line 246] Loaded Device ID: 2D4C3EBF-3676-4DF0-A0B1-571CFDEE7242
+2013-09-21 14:19:14.278 Kush[19973:1003] [D] +[UAKeychainUtils getDeviceID] [Line 247] Loaded Model Name: x86_64
+2013-09-21 14:19:14.472 Kush[19973:a0b] [D] __39-[UAAnalytics sendOperationWithEvents:]_block_invoke [Line 622] Analytics data sent successfully. Status: 200
 Terminating in response to SpringBoard's termination.
-2013-09-19 14:07:45.396 Kush[4884:c07] Multi-tasking -> Device: YES, App: YES
-2013-09-19 14:07:45.454 Kush[4884:c07] Resetting plugins due to page load.
-2013-09-19 14:07:47.062 Kush[4884:c07] Finished load of: file:///Users/nulayer/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/DB4C5144-46F2-42A8-BEAE-8F2797268F15/Kush.app/www/index.html#login
-2013-09-19 14:09:00.076 Kush[4884:c07] Resetting plugins due to page load.
-2013-09-19 14:09:00.407 Kush[4884:c07] Finished load of: file:///Users/nulayer/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/DB4C5144-46F2-42A8-BEAE-8F2797268F15/Kush.app/www/index.html#login
-2013-09-19 14:11:33.745 Kush[5271:c07] Multi-tasking -> Device: YES, App: YES
-2013-09-19 14:11:33.784 Kush[5271:c07] Resetting plugins due to page load.
-2013-09-19 14:11:34.285 Kush[5271:c07] Finished load of: file:///Users/nulayer/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/DB4C5144-46F2-42A8-BEAE-8F2797268F15/Kush.app/www/index.html#login
-Terminating in response to SpringBoard's termination.
-2013-09-20 10:37:19.234 Kush[10752:c07] Multi-tasking -> Device: YES, App: YES
-2013-09-20 10:37:19.573 Kush[10752:c07] Resetting plugins due to page load.
-2013-09-20 10:37:19.989 Kush[10752:c07] Finished load of: file:///Users/nulayer/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/DB4C5144-46F2-42A8-BEAE-8F2797268F15/Kush.app/www/index.html
-2013-09-20 10:41:31.895 Kush[10752:c07] Resetting plugins due to page load.
-2013-09-20 10:41:34.291 Kush[10752:c07] Finished load of: file:///Users/nulayer/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/DB4C5144-46F2-42A8-BEAE-8F2797268F15/Kush.app/www/index.html#login
-Terminating in response to SpringBoard's termination.
-2013-09-20 13:09:02.282 Kush[11780:c07] Multi-tasking -> Device: YES, App: YES
-2013-09-20 13:09:02.630 Kush[11780:c07] Resetting plugins due to page load.
-2013-09-20 13:09:02.704 Kush[11780:c07] Finished load of: file:///Users/nulayer/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/DB4C5144-46F2-42A8-BEAE-8F2797268F15/Kush.app/www/index.html
-2013-09-20 13:09:42.412 Kush[11780:c07] Resetting plugins due to page load.
-2013-09-20 13:09:42.440 Kush[11780:c07] Finished load of: file:///Users/nulayer/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/DB4C5144-46F2-42A8-BEAE-8F2797268F15/Kush.app/www/index.html
-2013-09-20 13:09:44.024 Kush[11780:c07] Resetting plugins due to page load.
-2013-09-20 13:09:44.037 Kush[11780:c07] Finished load of: file:///Users/nulayer/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/DB4C5144-46F2-42A8-BEAE-8F2797268F15/Kush.app/www/index.html
-2013-09-20 13:09:52.166 Kush[11780:c07] Resetting plugins due to page load.
-2013-09-20 13:09:52.180 Kush[11780:c07] Finished load of: file:///Users/nulayer/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/DB4C5144-46F2-42A8-BEAE-8F2797268F15/Kush.app/www/index.html
-2013-09-20 13:10:20.564 Kush[12097:c07] Multi-tasking -> Device: YES, App: YES
-2013-09-20 13:10:20.607 Kush[12097:c07] Resetting plugins due to page load.
-2013-09-20 13:10:20.652 Kush[12097:c07] Finished load of: file:///Users/nulayer/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/DB4C5144-46F2-42A8-BEAE-8F2797268F15/Kush.app/www/index.html
-2013-09-20 13:10:26.196 Kush[12097:c07] Resetting plugins due to page load.
-2013-09-20 13:10:26.205 Kush[12097:c07] Finished load of: file:///Users/nulayer/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/DB4C5144-46F2-42A8-BEAE-8F2797268F15/Kush.app/www/index.html
-2013-09-20 13:10:34.535 Kush[12097:c07] Resetting plugins due to page load.
-2013-09-20 13:10:34.546 Kush[12097:c07] Finished load of: file:///Users/nulayer/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/DB4C5144-46F2-42A8-BEAE-8F2797268F15/Kush.app/www/index.html
-2013-09-20 13:11:03.391 Kush[12399:c07] Multi-tasking -> Device: YES, App: YES
-2013-09-20 13:11:03.441 Kush[12399:c07] Resetting plugins due to page load.
-2013-09-20 13:11:05.704 Kush[12399:c07] Finished load of: file:///Users/nulayer/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/DB4C5144-46F2-42A8-BEAE-8F2797268F15/Kush.app/www/index.html#login
-2013-09-20 13:11:37.987 Kush[12399:c07] Simulator slow-motion animations are now on
-2013-09-20 13:12:00.700 Kush[12399:2803] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
-Terminating in response to SpringBoard's termination.
-2013-09-20 13:13:15.758 Kush[12758:c07] Multi-tasking -> Device: YES, App: YES
-2013-09-20 13:13:16.026 Kush[12758:c07] Resetting plugins due to page load.
-2013-09-20 13:13:16.512 Kush[12758:c07] Finished load of: file:///Users/nulayer/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/DB4C5144-46F2-42A8-BEAE-8F2797268F15/Kush.app/www/index.html
-2013-09-20 13:13:24.448 Kush[12758:c07] Resetting plugins due to page load.
-2013-09-20 13:13:24.528 Kush[12758:c07] Finished load of: file:///Users/nulayer/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/DB4C5144-46F2-42A8-BEAE-8F2797268F15/Kush.app/www/index.html
-2013-09-20 13:14:20.506 Kush[12758:c07] Resetting plugins due to page load.
-2013-09-20 13:14:22.897 Kush[12758:c07] Finished load of: file:///Users/nulayer/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/DB4C5144-46F2-42A8-BEAE-8F2797268F15/Kush.app/www/index.html#login
-2013-09-20 13:17:49.608 Kush[12758:c07] Resetting plugins due to page load.
-2013-09-20 13:17:52.091 Kush[12758:c07] Finished load of: file:///Users/nulayer/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/DB4C5144-46F2-42A8-BEAE-8F2797268F15/Kush.app/www/index.html#login
-2013-09-20 13:18:05.770 Kush[12758:c07] Resetting plugins due to page load.
-2013-09-20 13:18:07.401 Kush[12758:c07] Finished load of: file:///Users/nulayer/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/DB4C5144-46F2-42A8-BEAE-8F2797268F15/Kush.app/www/index.html#login
-2013-09-20 13:18:36.232 Kush[12758:c07] Resetting plugins due to page load.
-2013-09-20 13:18:37.585 Kush[12758:c07] Finished load of: file:///Users/nulayer/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/DB4C5144-46F2-42A8-BEAE-8F2797268F15/Kush.app/www/index.html#login
-Terminating in response to SpringBoard's termination.
+2013-09-21 16:56:17.381 Kush[1384:a0b] Multi-tasking -> Device: YES, App: YES
+2013-09-21 16:56:17.398 Kush[1384:a0b] Fix applied for database locations?: YES
+2013-09-21 16:56:17.461 Kush[1384:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 149] App Key: naPzDmqoQJCQFojd3YiWcg
+2013-09-21 16:56:17.473 Kush[1384:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 150] App Secret: riEKMVgcRZmRf22o3KCatw
+2013-09-21 16:56:17.475 Kush[1384:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 151] Server: https://device-api.urbanairship.com
+2013-09-21 16:56:17.476 Kush[1384:a0b] [D] -[UAirship configureUserAgent] [Line 288] Setting User-Agent for UA requests to Kush 1.0.0 (iPhone Simulator; iPhone OS 7.0; UALib 2.0.3; naPzDmqoQJCQFojd3YiWcg; en_US)
+2013-09-21 16:56:17.482 Kush[1384:a0b] [D] void PrintReachabilityFlags(SCNetworkReachabilityFlags, const char *) [Line 79] Reachability Flag Status: -R -----l- networkStatusForFlags
+2013-09-21 16:56:17.499 Kush[1384:a0b] [D] +[UAKeychainUtils getDeviceID] [Line 260] Device model changed. Regenerating the device ID.
+2013-09-21 16:56:17.515 Kush[1384:a0b] [D] +[UAKeychainUtils getDeviceID] [Line 263] New device ID: 0CE10563-6EB6-4CAE-92B7-1B6B897B9156
+2013-09-21 16:56:17.516 Kush[1384:a0b] [D] -[UAUserAPIClient requestToCreateUserWithDeviceToken:] [Line 60] Request to create user with body: {"ua_device_id":"0CE10563-6EB6-4CAE-92B7-1B6B897B9156"}
+2013-09-21 16:56:17.518 Kush[1384:a0b] [CDVTimer][pushnotificationplugin] 82.225978ms
+2013-09-21 16:56:17.520 Kush[1384:a0b] [CDVTimer][TotalPluginStartup] 84.059000ms
+2013-09-21 16:56:17.717 Kush[1384:a0b] Resetting plugins due to page load.
+2013-09-21 16:56:17.760 Kush[1384:a0b] [E] -[UAAutoAppDelegate application:didFailToRegisterForRemoteNotificationsWithError:] [Line 43] Failed To Register For Remote Notifications With Error: Error Domain=NSCocoaErrorDomain Code=3010 "remote notifications are not supported in the simulator" UserInfo=0xc47dc50 {NSLocalizedDescription=remote notifications are not supported in the simulator}
+2013-09-21 16:56:18.049 Kush[1384:a0b] [D] -[UAUser updateDefaultDeviceToken] [Line 250] Skipping device token update: no token, already up to date, or user is being updated.
+2013-09-21 16:56:18.682 Kush[1384:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/9B74A445-FA01-4A45-B47A-037926A427F1/Kush.app/www/index.html
+2013-09-21 16:56:27.194 Kush[1384:a0b] Resetting plugins due to page load.
+2013-09-21 16:56:27.359 Kush[1384:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/9B74A445-FA01-4A45-B47A-037926A427F1/Kush.app/www/index.html
+2013-09-21 16:56:32.765 Kush[1384:a0b] [D] __39-[UAAnalytics sendOperationWithEvents:]_block_invoke [Line 622] Analytics data sent successfully. Status: 200
+2013-09-21 16:57:34.506 Kush[1384:a0b] Resetting plugins due to page load.
+2013-09-21 16:57:35.464 Kush[1384:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/9B74A445-FA01-4A45-B47A-037926A427F1/Kush.app/www/index.html
+2013-09-21 16:57:35.521 Kush[1384:a0b] Resetting plugins due to page load.
+2013-09-21 16:57:35.659 Kush[1384:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/9B74A445-FA01-4A45-B47A-037926A427F1/Kush.app/www/index.html
+2013-09-21 16:57:36.082 Kush[1384:a0b] Resetting plugins due to page load.
+2013-09-21 16:57:36.241 Kush[1384:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/9B74A445-FA01-4A45-B47A-037926A427F1/Kush.app/www/index.html
+2013-09-21 16:57:36.543 Kush[1384:a0b] Resetting plugins due to page load.
+2013-09-21 16:57:36.679 Kush[1384:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/9B74A445-FA01-4A45-B47A-037926A427F1/Kush.app/www/index.html
+2013-09-21 16:57:38.759 Kush[1384:a0b] Resetting plugins due to page load.
+2013-09-21 16:57:38.902 Kush[1384:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/9B74A445-FA01-4A45-B47A-037926A427F1/Kush.app/www/index.html
+2013-09-21 16:57:39.558 Kush[1384:a0b] Resetting plugins due to page load.
+2013-09-21 16:57:39.712 Kush[1384:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/9B74A445-FA01-4A45-B47A-037926A427F1/Kush.app/www/index.html
+2013-09-21 16:57:40.099 Kush[1384:a0b] Resetting plugins due to page load.
+2013-09-21 16:57:40.254 Kush[1384:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/9B74A445-FA01-4A45-B47A-037926A427F1/Kush.app/www/index.html
+2013-09-21 16:57:40.537 Kush[1384:a0b] Resetting plugins due to page load.
+2013-09-21 16:57:40.677 Kush[1384:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/9B74A445-FA01-4A45-B47A-037926A427F1/Kush.app/www/index.html
+2013-09-21 16:58:00.838 Kush[1785:a0b] Multi-tasking -> Device: YES, App: YES
+2013-09-21 16:58:00.900 Kush[1785:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 149] App Key: naPzDmqoQJCQFojd3YiWcg
+2013-09-21 16:58:00.911 Kush[1785:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 150] App Secret: riEKMVgcRZmRf22o3KCatw
+2013-09-21 16:58:00.913 Kush[1785:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 151] Server: https://device-api.urbanairship.com
+2013-09-21 16:58:00.915 Kush[1785:a0b] [D] -[UAirship configureUserAgent] [Line 288] Setting User-Agent for UA requests to Kush 1.0.0 (iPhone Simulator; iPhone OS 7.0; UALib 2.0.3; naPzDmqoQJCQFojd3YiWcg; en_US)
+2013-09-21 16:58:00.928 Kush[1785:a0b] [D] void PrintReachabilityFlags(SCNetworkReachabilityFlags, const char *) [Line 79] Reachability Flag Status: -R -----l- networkStatusForFlags
+2013-09-21 16:58:00.944 Kush[1785:a0b] [CDVTimer][pushnotificationplugin] 51.356018ms
+2013-09-21 16:58:00.944 Kush[1785:a0b] [CDVTimer][TotalPluginStartup] 52.311003ms
+2013-09-21 16:58:01.260 Kush[1785:a0b] Resetting plugins due to page load.
+2013-09-21 16:58:01.263 Kush[1785:a0b] [E] -[UAAutoAppDelegate application:didFailToRegisterForRemoteNotificationsWithError:] [Line 43] Failed To Register For Remote Notifications With Error: Error Domain=NSCocoaErrorDomain Code=3010 "remote notifications are not supported in the simulator" UserInfo=0xc2988a0 {NSLocalizedDescription=remote notifications are not supported in the simulator}
+2013-09-21 16:58:02.277 Kush[1785:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/9B74A445-FA01-4A45-B47A-037926A427F1/Kush.app/www/index.html#login
+2013-09-21 16:58:15.941 Kush[1785:1003] [D] +[UAKeychainUtils getDeviceID] [Line 236] Retrieved device id info from keychain.
+2013-09-21 16:58:15.941 Kush[1785:1003] [D] +[UAKeychainUtils getDeviceID] [Line 246] Loaded Device ID: 0CE10563-6EB6-4CAE-92B7-1B6B897B9156
+2013-09-21 16:58:15.941 Kush[1785:1003] [D] +[UAKeychainUtils getDeviceID] [Line 247] Loaded Model Name: x86_64
+2013-09-21 16:58:16.116 Kush[1785:a0b] [D] __39-[UAAnalytics sendOperationWithEvents:]_block_invoke [Line 622] Analytics data sent successfully. Status: 200
+2013-09-21 17:01:31.136 Kush[1785:a0b] Resetting plugins due to page load.
+2013-09-21 17:01:33.253 Kush[1785:a0b] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2013-09-21 17:01:33.254 Kush[1785:a0b] Resetting plugins due to page load.
+2013-09-21 17:01:33.745 Kush[1785:a0b] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2013-09-21 17:01:33.745 Kush[1785:a0b] Resetting plugins due to page load.
+2013-09-21 17:01:33.937 Kush[1785:a0b] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2013-09-21 17:01:33.937 Kush[1785:a0b] Resetting plugins due to page load.
+2013-09-21 17:01:34.105 Kush[1785:a0b] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2013-09-21 17:01:34.106 Kush[1785:a0b] Resetting plugins due to page load.
+2013-09-21 17:01:34.605 Kush[1785:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/9B74A445-FA01-4A45-B47A-037926A427F1/Kush.app/www/index.html#login
+2013-09-21 17:02:02.961 Kush[1785:a0b] Resetting plugins due to page load.
+2013-09-21 17:02:03.313 Kush[1785:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/9B74A445-FA01-4A45-B47A-037926A427F1/Kush.app/www/index.html#login
+2013-09-21 17:02:07.415 Kush[1785:a0b] Resetting plugins due to page load.
+2013-09-21 17:02:07.733 Kush[1785:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/9B74A445-FA01-4A45-B47A-037926A427F1/Kush.app/www/index.html#login
+2013-09-21 17:03:45.702 Kush[2228:a0b] Multi-tasking -> Device: YES, App: YES
+2013-09-21 17:03:45.742 Kush[2228:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 149] App Key: naPzDmqoQJCQFojd3YiWcg
+2013-09-21 17:03:45.743 Kush[2228:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 150] App Secret: riEKMVgcRZmRf22o3KCatw
+2013-09-21 17:03:45.744 Kush[2228:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 151] Server: https://device-api.urbanairship.com
+2013-09-21 17:03:45.746 Kush[2228:a0b] [D] -[UAirship configureUserAgent] [Line 288] Setting User-Agent for UA requests to Kush 1.0.0 (iPhone Simulator; iPhone OS 7.0; UALib 2.0.3; naPzDmqoQJCQFojd3YiWcg; en_US)
+2013-09-21 17:03:45.750 Kush[2228:a0b] [D] void PrintReachabilityFlags(SCNetworkReachabilityFlags, const char *) [Line 79] Reachability Flag Status: -R -----l- networkStatusForFlags
+2013-09-21 17:03:45.762 Kush[2228:a0b] [CDVTimer][pushnotificationplugin] 28.465986ms
+2013-09-21 17:03:45.763 Kush[2228:a0b] [CDVTimer][TotalPluginStartup] 29.780030ms
+2013-09-21 17:03:46.000 Kush[2228:a0b] Resetting plugins due to page load.
+2013-09-21 17:03:46.006 Kush[2228:a0b] [E] -[UAAutoAppDelegate application:didFailToRegisterForRemoteNotificationsWithError:] [Line 43] Failed To Register For Remote Notifications With Error: Error Domain=NSCocoaErrorDomain Code=3010 "remote notifications are not supported in the simulator" UserInfo=0xc29c2f0 {NSLocalizedDescription=remote notifications are not supported in the simulator}
+2013-09-21 17:03:46.750 Kush[2228:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/9B74A445-FA01-4A45-B47A-037926A427F1/Kush.app/www/index.html
+2013-09-21 17:04:00.757 Kush[2228:1003] [D] +[UAKeychainUtils getDeviceID] [Line 236] Retrieved device id info from keychain.
+2013-09-21 17:04:00.758 Kush[2228:1003] [D] +[UAKeychainUtils getDeviceID] [Line 246] Loaded Device ID: 0CE10563-6EB6-4CAE-92B7-1B6B897B9156
+2013-09-21 17:04:00.758 Kush[2228:1003] [D] +[UAKeychainUtils getDeviceID] [Line 247] Loaded Model Name: x86_64
+2013-09-21 17:04:00.913 Kush[2228:a0b] [D] __39-[UAAnalytics sendOperationWithEvents:]_block_invoke [Line 622] Analytics data sent successfully. Status: 200
+2013-09-21 17:04:08.571 Kush[2228:a0b] Resetting plugins due to page load.
+2013-09-21 17:04:09.006 Kush[2228:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/9B74A445-FA01-4A45-B47A-037926A427F1/Kush.app/www/index.html#login
+2013-09-21 17:05:55.955 Kush[2228:a0b] Resetting plugins due to page load.
+2013-09-21 17:05:56.727 Kush[2228:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/9B74A445-FA01-4A45-B47A-037926A427F1/Kush.app/www/index.html#login
+2013-09-21 17:07:28.476 Kush[2228:a0b] Resetting plugins due to page load.
+2013-09-21 17:07:29.024 Kush[2228:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/9B74A445-FA01-4A45-B47A-037926A427F1/Kush.app/www/index.html#login
+2013-09-21 17:25:43.306 Kush[3900:a0b] Multi-tasking -> Device: YES, App: YES
+2013-09-21 17:25:43.350 Kush[3900:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 149] App Key: naPzDmqoQJCQFojd3YiWcg
+2013-09-21 17:25:43.353 Kush[3900:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 150] App Secret: riEKMVgcRZmRf22o3KCatw
+2013-09-21 17:25:43.354 Kush[3900:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 151] Server: https://device-api.urbanairship.com
+2013-09-21 17:25:43.357 Kush[3900:a0b] [D] -[UAirship configureUserAgent] [Line 288] Setting User-Agent for UA requests to Kush 1.0.0 (iPhone Simulator; iPhone OS 7.0; UALib 2.0.3; naPzDmqoQJCQFojd3YiWcg; en_US)
+2013-09-21 17:25:43.363 Kush[3900:a0b] [D] void PrintReachabilityFlags(SCNetworkReachabilityFlags, const char *) [Line 79] Reachability Flag Status: -R -----l- networkStatusForFlags
+2013-09-21 17:25:43.372 Kush[3900:a0b] [D] +[UAKeychainUtils getDeviceID] [Line 260] Device model changed. Regenerating the device ID.
+2013-09-21 17:25:43.383 Kush[3900:a0b] [D] +[UAKeychainUtils getDeviceID] [Line 263] New device ID: 939E82DF-8233-4353-B986-EAA7F05470D3
+2013-09-21 17:25:43.385 Kush[3900:a0b] [D] -[UAUserAPIClient requestToCreateUserWithDeviceToken:] [Line 60] Request to create user with body: {"ua_device_id":"939E82DF-8233-4353-B986-EAA7F05470D3"}
+2013-09-21 17:25:43.388 Kush[3900:a0b] [CDVTimer][pushnotificationplugin] 46.651006ms
+2013-09-21 17:25:43.393 Kush[3900:a0b] [CDVTimer][TotalPluginStartup] 51.468015ms
+2013-09-21 17:25:43.657 Kush[3900:a0b] Resetting plugins due to page load.
+2013-09-21 17:25:43.661 Kush[3900:a0b] [E] -[UAAutoAppDelegate application:didFailToRegisterForRemoteNotificationsWithError:] [Line 43] Failed To Register For Remote Notifications With Error: Error Domain=NSCocoaErrorDomain Code=3010 "remote notifications are not supported in the simulator" UserInfo=0xc07f3b0 {NSLocalizedDescription=remote notifications are not supported in the simulator}
+2013-09-21 17:25:43.894 Kush[3900:a0b] [D] -[UAUser updateDefaultDeviceToken] [Line 250] Skipping device token update: no token, already up to date, or user is being updated.
+2013-09-21 17:25:44.513 Kush[3900:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0-64/Applications/7D734531-CA86-4BC7-B313-B60540EF54E9/Kush.app/www/index.html#login
+2013-09-21 17:25:58.655 Kush[3900:a0b] [D] __39-[UAAnalytics sendOperationWithEvents:]_block_invoke [Line 622] Analytics data sent successfully. Status: 200
+2013-09-21 17:26:50.572 Kush[4285:a0b] Multi-tasking -> Device: YES, App: YES
+2013-09-21 17:26:50.620 Kush[4285:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 149] App Key: naPzDmqoQJCQFojd3YiWcg
+2013-09-21 17:26:50.621 Kush[4285:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 150] App Secret: riEKMVgcRZmRf22o3KCatw
+2013-09-21 17:26:50.623 Kush[4285:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 151] Server: https://device-api.urbanairship.com
+2013-09-21 17:26:50.628 Kush[4285:a0b] [D] -[UAirship configureUserAgent] [Line 288] Setting User-Agent for UA requests to Kush 1.0.0 (iPhone Simulator; iPhone OS 7.0; UALib 2.0.3; naPzDmqoQJCQFojd3YiWcg; en_US)
+2013-09-21 17:26:50.635 Kush[4285:a0b] [D] void PrintReachabilityFlags(SCNetworkReachabilityFlags, const char *) [Line 79] Reachability Flag Status: -R -----l- networkStatusForFlags
+2013-09-21 17:26:50.643 Kush[4285:a0b] [CDVTimer][pushnotificationplugin] 30.391991ms
+2013-09-21 17:26:50.644 Kush[4285:a0b] [CDVTimer][TotalPluginStartup] 31.154037ms
+2013-09-21 17:26:50.877 Kush[4285:a0b] Resetting plugins due to page load.
+2013-09-21 17:26:50.880 Kush[4285:a0b] [E] -[UAAutoAppDelegate application:didFailToRegisterForRemoteNotificationsWithError:] [Line 43] Failed To Register For Remote Notifications With Error: Error Domain=NSCocoaErrorDomain Code=3010 "remote notifications are not supported in the simulator" UserInfo=0xb37e6e0 {NSLocalizedDescription=remote notifications are not supported in the simulator}
+2013-09-21 17:26:51.463 Kush[4285:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0-64/Applications/7D734531-CA86-4BC7-B313-B60540EF54E9/Kush.app/www/index.html#login
+2013-09-21 17:27:12.643 Kush[4285:1203] [D] +[UAKeychainUtils getDeviceID] [Line 236] Retrieved device id info from keychain.
+2013-09-21 17:27:12.643 Kush[4285:1203] [D] +[UAKeychainUtils getDeviceID] [Line 246] Loaded Device ID: 939E82DF-8233-4353-B986-EAA7F05470D3
+2013-09-21 17:27:12.643 Kush[4285:1203] [D] +[UAKeychainUtils getDeviceID] [Line 247] Loaded Model Name: x86_64
+2013-09-21 17:27:13.048 Kush[4285:a0b] [D] __39-[UAAnalytics sendOperationWithEvents:]_block_invoke [Line 622] Analytics data sent successfully. Status: 200
+2013-09-21 17:35:58.952 Kush[4743:a0b] Multi-tasking -> Device: YES, App: YES
+2013-09-21 17:35:58.984 Kush[4743:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 149] App Key: naPzDmqoQJCQFojd3YiWcg
+2013-09-21 17:35:58.984 Kush[4743:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 150] App Secret: riEKMVgcRZmRf22o3KCatw
+2013-09-21 17:35:58.985 Kush[4743:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 151] Server: https://device-api.urbanairship.com
+2013-09-21 17:35:58.985 Kush[4743:a0b] [D] -[UAirship configureUserAgent] [Line 288] Setting User-Agent for UA requests to Kush 1.0.0 (iPhone Simulator; iPhone OS 7.0; UALib 2.0.3; naPzDmqoQJCQFojd3YiWcg; en_US)
+2013-09-21 17:35:58.988 Kush[4743:a0b] [D] void PrintReachabilityFlags(SCNetworkReachabilityFlags, const char *) [Line 79] Reachability Flag Status: -R -----l- networkStatusForFlags
+2013-09-21 17:35:58.993 Kush[4743:a0b] [CDVTimer][pushnotificationplugin] 14.688015ms
+2013-09-21 17:35:58.994 Kush[4743:a0b] [CDVTimer][TotalPluginStartup] 15.206993ms
+2013-09-21 17:35:59.164 Kush[4743:a0b] Resetting plugins due to page load.
+2013-09-21 17:35:59.166 Kush[4743:a0b] [E] -[UAAutoAppDelegate application:didFailToRegisterForRemoteNotificationsWithError:] [Line 43] Failed To Register For Remote Notifications With Error: Error Domain=NSCocoaErrorDomain Code=3010 "remote notifications are not supported in the simulator" UserInfo=0xc23e220 {NSLocalizedDescription=remote notifications are not supported in the simulator}
+2013-09-21 17:35:59.751 Kush[4743:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0-64/Applications/7D734531-CA86-4BC7-B313-B60540EF54E9/Kush.app/www/index.html#login
+2013-09-21 17:36:13.993 Kush[4743:3207] [D] +[UAKeychainUtils getDeviceID] [Line 236] Retrieved device id info from keychain.
+2013-09-21 17:36:13.993 Kush[4743:3207] [D] +[UAKeychainUtils getDeviceID] [Line 246] Loaded Device ID: 939E82DF-8233-4353-B986-EAA7F05470D3
+2013-09-21 17:36:13.994 Kush[4743:3207] [D] +[UAKeychainUtils getDeviceID] [Line 247] Loaded Model Name: x86_64
+2013-09-21 17:36:14.426 Kush[4743:a0b] [D] __39-[UAAnalytics sendOperationWithEvents:]_block_invoke [Line 622] Analytics data sent successfully. Status: 200
+2013-09-21 17:37:52.255 Kush[5136:a0b] Multi-tasking -> Device: YES, App: YES
+2013-09-21 17:37:52.301 Kush[5136:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 149] App Key: naPzDmqoQJCQFojd3YiWcg
+2013-09-21 17:37:52.301 Kush[5136:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 150] App Secret: riEKMVgcRZmRf22o3KCatw
+2013-09-21 17:37:52.302 Kush[5136:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 151] Server: https://device-api.urbanairship.com
+2013-09-21 17:37:52.304 Kush[5136:a0b] [D] -[UAirship configureUserAgent] [Line 288] Setting User-Agent for UA requests to Kush 1.0.0 (iPhone Simulator; iPhone OS 7.0; UALib 2.0.3; naPzDmqoQJCQFojd3YiWcg; en_US)
+2013-09-21 17:37:52.307 Kush[5136:a0b] [D] void PrintReachabilityFlags(SCNetworkReachabilityFlags, const char *) [Line 79] Reachability Flag Status: -R -----l- networkStatusForFlags
+2013-09-21 17:37:52.314 Kush[5136:a0b] [CDVTimer][pushnotificationplugin] 21.035016ms
+2013-09-21 17:37:52.315 Kush[5136:a0b] [CDVTimer][TotalPluginStartup] 21.692038ms
+2013-09-21 17:37:52.493 Kush[5136:a0b] Resetting plugins due to page load.
+2013-09-21 17:37:52.494 Kush[5136:a0b] [E] -[UAAutoAppDelegate application:didFailToRegisterForRemoteNotificationsWithError:] [Line 43] Failed To Register For Remote Notifications With Error: Error Domain=NSCocoaErrorDomain Code=3010 "remote notifications are not supported in the simulator" UserInfo=0xb34b080 {NSLocalizedDescription=remote notifications are not supported in the simulator}
+2013-09-21 17:37:52.633 Kush[5136:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0-64/Applications/7D734531-CA86-4BC7-B313-B60540EF54E9/Kush.app/www/index.html
+2013-09-21 17:37:59.410 Kush[5136:a0b] Resetting plugins due to page load.
+2013-09-21 17:37:59.476 Kush[5136:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0-64/Applications/7D734531-CA86-4BC7-B313-B60540EF54E9/Kush.app/www/index.html
+2013-09-21 17:38:01.429 Kush[5136:a0b] Resetting plugins due to page load.
+2013-09-21 17:38:01.496 Kush[5136:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0-64/Applications/7D734531-CA86-4BC7-B313-B60540EF54E9/Kush.app/www/index.html
+2013-09-21 17:38:07.313 Kush[5136:1203] [D] +[UAKeychainUtils getDeviceID] [Line 236] Retrieved device id info from keychain.
+2013-09-21 17:38:07.313 Kush[5136:1203] [D] +[UAKeychainUtils getDeviceID] [Line 246] Loaded Device ID: 939E82DF-8233-4353-B986-EAA7F05470D3
+2013-09-21 17:38:07.313 Kush[5136:1203] [D] +[UAKeychainUtils getDeviceID] [Line 247] Loaded Model Name: x86_64
+2013-09-21 17:38:07.765 Kush[5136:a0b] [D] __39-[UAAnalytics sendOperationWithEvents:]_block_invoke [Line 622] Analytics data sent successfully. Status: 200
+2013-09-21 17:40:32.849 Kush[5534:a0b] Multi-tasking -> Device: YES, App: YES
+2013-09-21 17:40:32.891 Kush[5534:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 149] App Key: naPzDmqoQJCQFojd3YiWcg
+2013-09-21 17:40:32.892 Kush[5534:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 150] App Secret: riEKMVgcRZmRf22o3KCatw
+2013-09-21 17:40:32.894 Kush[5534:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 151] Server: https://device-api.urbanairship.com
+2013-09-21 17:40:32.898 Kush[5534:a0b] [D] -[UAirship configureUserAgent] [Line 288] Setting User-Agent for UA requests to Kush 1.0.0 (iPhone Simulator; iPhone OS 7.0; UALib 2.0.3; naPzDmqoQJCQFojd3YiWcg; en_US)
+2013-09-21 17:40:32.902 Kush[5534:a0b] [D] void PrintReachabilityFlags(SCNetworkReachabilityFlags, const char *) [Line 79] Reachability Flag Status: -R -----l- networkStatusForFlags
+2013-09-21 17:40:32.911 Kush[5534:a0b] [CDVTimer][pushnotificationplugin] 28.047979ms
+2013-09-21 17:40:32.913 Kush[5534:a0b] [CDVTimer][TotalPluginStartup] 29.734015ms
+2013-09-21 17:40:33.246 Kush[5534:a0b] Resetting plugins due to page load.
+2013-09-21 17:40:33.249 Kush[5534:a0b] [E] -[UAAutoAppDelegate application:didFailToRegisterForRemoteNotificationsWithError:] [Line 43] Failed To Register For Remote Notifications With Error: Error Domain=NSCocoaErrorDomain Code=3010 "remote notifications are not supported in the simulator" UserInfo=0xc36fd80 {NSLocalizedDescription=remote notifications are not supported in the simulator}
+2013-09-21 17:40:33.514 Kush[5534:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0-64/Applications/7D734531-CA86-4BC7-B313-B60540EF54E9/Kush.app/www/index.html
+2013-09-21 17:40:44.008 Kush[5534:a0b] Resetting plugins due to page load.
+2013-09-21 17:40:44.062 Kush[5534:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0-64/Applications/7D734531-CA86-4BC7-B313-B60540EF54E9/Kush.app/www/index.html
+2013-09-21 17:40:47.909 Kush[5534:1203] [D] +[UAKeychainUtils getDeviceID] [Line 236] Retrieved device id info from keychain.
+2013-09-21 17:40:47.909 Kush[5534:1203] [D] +[UAKeychainUtils getDeviceID] [Line 246] Loaded Device ID: 939E82DF-8233-4353-B986-EAA7F05470D3
+2013-09-21 17:40:47.909 Kush[5534:1203] [D] +[UAKeychainUtils getDeviceID] [Line 247] Loaded Model Name: x86_64
+2013-09-21 17:40:48.174 Kush[5534:a0b] [D] __39-[UAAnalytics sendOperationWithEvents:]_block_invoke [Line 622] Analytics data sent successfully. Status: 200
+2013-09-21 17:41:19.278 Kush[5913:a0b] Multi-tasking -> Device: YES, App: YES
+2013-09-21 17:41:19.318 Kush[5913:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 149] App Key: naPzDmqoQJCQFojd3YiWcg
+2013-09-21 17:41:19.319 Kush[5913:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 150] App Secret: riEKMVgcRZmRf22o3KCatw
+2013-09-21 17:41:19.320 Kush[5913:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 151] Server: https://device-api.urbanairship.com
+2013-09-21 17:41:19.321 Kush[5913:a0b] [D] -[UAirship configureUserAgent] [Line 288] Setting User-Agent for UA requests to Kush 1.0.0 (iPhone Simulator; iPhone OS 7.0; UALib 2.0.3; naPzDmqoQJCQFojd3YiWcg; en_US)
+2013-09-21 17:41:19.323 Kush[5913:a0b] [D] void PrintReachabilityFlags(SCNetworkReachabilityFlags, const char *) [Line 79] Reachability Flag Status: -R -----l- networkStatusForFlags
+2013-09-21 17:41:19.330 Kush[5913:a0b] [CDVTimer][pushnotificationplugin] 18.703997ms
+2013-09-21 17:41:19.330 Kush[5913:a0b] [CDVTimer][TotalPluginStartup] 19.291997ms
+2013-09-21 17:41:19.500 Kush[5913:a0b] Resetting plugins due to page load.
+2013-09-21 17:41:19.502 Kush[5913:a0b] [E] -[UAAutoAppDelegate application:didFailToRegisterForRemoteNotificationsWithError:] [Line 43] Failed To Register For Remote Notifications With Error: Error Domain=NSCocoaErrorDomain Code=3010 "remote notifications are not supported in the simulator" UserInfo=0xc23d9c0 {NSLocalizedDescription=remote notifications are not supported in the simulator}
+2013-09-21 17:41:19.642 Kush[5913:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0-64/Applications/7D734531-CA86-4BC7-B313-B60540EF54E9/Kush.app/www/index.html
+2013-09-21 17:41:29.155 Kush[5913:a0b] Resetting plugins due to page load.
+2013-09-21 17:41:29.225 Kush[5913:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0-64/Applications/7D734531-CA86-4BC7-B313-B60540EF54E9/Kush.app/www/index.html
+2013-09-21 17:42:02.331 Kush[5913:3207] [D] +[UAKeychainUtils getDeviceID] [Line 236] Retrieved device id info from keychain.
+2013-09-21 17:42:02.331 Kush[5913:3207] [D] +[UAKeychainUtils getDeviceID] [Line 246] Loaded Device ID: 939E82DF-8233-4353-B986-EAA7F05470D3
+2013-09-21 17:42:02.332 Kush[5913:3207] [D] +[UAKeychainUtils getDeviceID] [Line 247] Loaded Model Name: x86_64
+2013-09-21 17:42:02.531 Kush[5913:a0b] [D] __39-[UAAnalytics sendOperationWithEvents:]_block_invoke [Line 622] Analytics data sent successfully. Status: 200
+2013-09-21 17:42:19.976 Kush[6293:a0b] Multi-tasking -> Device: YES, App: YES
+2013-09-21 17:42:20.017 Kush[6293:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 149] App Key: naPzDmqoQJCQFojd3YiWcg
+2013-09-21 17:42:20.019 Kush[6293:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 150] App Secret: riEKMVgcRZmRf22o3KCatw
+2013-09-21 17:42:20.020 Kush[6293:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 151] Server: https://device-api.urbanairship.com
+2013-09-21 17:42:20.022 Kush[6293:a0b] [D] -[UAirship configureUserAgent] [Line 288] Setting User-Agent for UA requests to Kush 1.0.0 (iPhone Simulator; iPhone OS 7.0; UALib 2.0.3; naPzDmqoQJCQFojd3YiWcg; en_US)
+2013-09-21 17:42:20.024 Kush[6293:a0b] [D] void PrintReachabilityFlags(SCNetworkReachabilityFlags, const char *) [Line 79] Reachability Flag Status: -R -----l- networkStatusForFlags
+2013-09-21 17:42:20.033 Kush[6293:a0b] [CDVTimer][pushnotificationplugin] 23.162961ms
+2013-09-21 17:42:20.034 Kush[6293:a0b] [CDVTimer][TotalPluginStartup] 24.150014ms
+2013-09-21 17:42:20.516 Kush[6293:a0b] Resetting plugins due to page load.
+2013-09-21 17:42:20.518 Kush[6293:a0b] [E] -[UAAutoAppDelegate application:didFailToRegisterForRemoteNotificationsWithError:] [Line 43] Failed To Register For Remote Notifications With Error: Error Domain=NSCocoaErrorDomain Code=3010 "remote notifications are not supported in the simulator" UserInfo=0xc23d070 {NSLocalizedDescription=remote notifications are not supported in the simulator}
+2013-09-21 17:42:21.416 Kush[6293:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0-64/Applications/7D734531-CA86-4BC7-B313-B60540EF54E9/Kush.app/www/index.html#login
+2013-09-21 17:42:35.031 Kush[6293:1003] [D] +[UAKeychainUtils getDeviceID] [Line 236] Retrieved device id info from keychain.
+2013-09-21 17:42:35.031 Kush[6293:1003] [D] +[UAKeychainUtils getDeviceID] [Line 246] Loaded Device ID: 939E82DF-8233-4353-B986-EAA7F05470D3
+2013-09-21 17:42:35.031 Kush[6293:1003] [D] +[UAKeychainUtils getDeviceID] [Line 247] Loaded Model Name: x86_64
+2013-09-21 17:42:35.190 Kush[6293:a0b] [D] __39-[UAAnalytics sendOperationWithEvents:]_block_invoke [Line 622] Analytics data sent successfully. Status: 503
+2013-09-21 17:42:40.704 Kush[6293:a0b] Resetting plugins due to page load.
+2013-09-21 17:42:41.133 Kush[6293:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0-64/Applications/7D734531-CA86-4BC7-B313-B60540EF54E9/Kush.app/www/index.html#login
+2013-09-21 17:43:34.313 Kush[6293:a0b] [D] __39-[UAAnalytics sendOperationWithEvents:]_block_invoke [Line 622] Analytics data sent successfully. Status: 200
+2013-09-21 17:43:53.922 Kush[6293:a0b] Resetting plugins due to page load.
+2013-09-21 17:43:54.313 Kush[6293:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0-64/Applications/7D734531-CA86-4BC7-B313-B60540EF54E9/Kush.app/www/index.html#dashboard
+2013-09-21 17:43:57.846 Kush[6293:a0b] Resetting plugins due to page load.
+2013-09-21 17:43:58.362 Kush[6293:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0-64/Applications/7D734531-CA86-4BC7-B313-B60540EF54E9/Kush.app/www/index.html#dashboard
+2013-09-21 17:44:01.627 Kush[6293:a0b] Resetting plugins due to page load.
+2013-09-21 17:44:01.927 Kush[6293:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0-64/Applications/7D734531-CA86-4BC7-B313-B60540EF54E9/Kush.app/www/index.html#dashboard
+2013-09-21 17:44:16.512 Kush[6293:a0b] Resetting plugins due to page load.
+2013-09-21 17:44:17.228 Kush[6293:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0-64/Applications/7D734531-CA86-4BC7-B313-B60540EF54E9/Kush.app/www/index.html#dashboard
+2013-09-21 17:45:24.722 Kush[6293:a0b] Resetting plugins due to page load.
+2013-09-21 17:45:25.337 Kush[6293:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0-64/Applications/7D734531-CA86-4BC7-B313-B60540EF54E9/Kush.app/www/index.html#dashboard
+2013-09-21 17:46:59.978 Kush[6293:a0b] Resetting plugins due to page load.
+2013-09-21 17:47:00.557 Kush[6293:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0-64/Applications/7D734531-CA86-4BC7-B313-B60540EF54E9/Kush.app/www/index.html#dashboard
+2013-09-21 17:47:01.236 Kush[6293:4d8f] [D] -[UAPush updateRegistrationForcefully:] [Line 492] Device token is nil. Registration will be attempted at a later time
+2013-09-21 17:52:23.827 Kush[6770:a0b] Multi-tasking -> Device: YES, App: YES
+2013-09-21 17:52:23.989 Kush[6770:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 149] App Key: naPzDmqoQJCQFojd3YiWcg
+2013-09-21 17:52:23.990 Kush[6770:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 150] App Secret: riEKMVgcRZmRf22o3KCatw
+2013-09-21 17:52:23.991 Kush[6770:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 151] Server: https://device-api.urbanairship.com
+2013-09-21 17:52:23.992 Kush[6770:a0b] [D] -[UAirship configureUserAgent] [Line 288] Setting User-Agent for UA requests to Kush 1.0.0 (iPhone Simulator; iPhone OS 7.0; UALib 2.0.3; naPzDmqoQJCQFojd3YiWcg; en_US)
+2013-09-21 17:52:23.995 Kush[6770:a0b] [D] void PrintReachabilityFlags(SCNetworkReachabilityFlags, const char *) [Line 79] Reachability Flag Status: -R -----l- networkStatusForFlags
+2013-09-21 17:52:24.001 Kush[6770:a0b] [CDVTimer][pushnotificationplugin] 17.297983ms
+2013-09-21 17:52:24.001 Kush[6770:a0b] [CDVTimer][TotalPluginStartup] 17.888963ms
+2013-09-21 17:52:24.154 Kush[6770:a0b] Resetting plugins due to page load.
+2013-09-21 17:52:24.156 Kush[6770:a0b] [E] -[UAAutoAppDelegate application:didFailToRegisterForRemoteNotificationsWithError:] [Line 43] Failed To Register For Remote Notifications With Error: Error Domain=NSCocoaErrorDomain Code=3010 "remote notifications are not supported in the simulator" UserInfo=0xc3b7040 {NSLocalizedDescription=remote notifications are not supported in the simulator}
+2013-09-21 17:52:25.183 Kush[6770:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0-64/Applications/7D734531-CA86-4BC7-B313-B60540EF54E9/Kush.app/www/index.html
+2013-09-21 17:52:39.000 Kush[6770:1203] [D] +[UAKeychainUtils getDeviceID] [Line 236] Retrieved device id info from keychain.
+2013-09-21 17:52:39.000 Kush[6770:1203] [D] +[UAKeychainUtils getDeviceID] [Line 246] Loaded Device ID: 939E82DF-8233-4353-B986-EAA7F05470D3
+2013-09-21 17:52:39.000 Kush[6770:1203] [D] +[UAKeychainUtils getDeviceID] [Line 247] Loaded Model Name: x86_64
+2013-09-21 17:52:39.192 Kush[6770:a0b] [D] __39-[UAAnalytics sendOperationWithEvents:]_block_invoke [Line 622] Analytics data sent successfully. Status: 200
