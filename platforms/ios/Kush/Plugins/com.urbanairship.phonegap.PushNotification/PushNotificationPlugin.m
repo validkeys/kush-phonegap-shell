@@ -31,10 +31,14 @@ typedef void (^UACordovaVoidCallbackBlock)(NSArray *args);
     config.productionAppSecret = [settings valueForKey:@"com.urbanairship.production_app_secret"] ?: config.productionAppSecret;
     config.developmentAppKey = [settings valueForKey:@"com.urbanairship.development_app_key"] ?: config.developmentAppKey;
     config.developmentAppSecret = [settings valueForKey:@"com.urbanairship.development_app_secret"] ?: config.developmentAppSecret;
+    config.clearKeychain = [[settings valueForKey:@"com.urbanairship.clear_keychain"] boolValue];
 
     if ([settings valueForKey:@"com.urbanairship.in_production"]) {
         config.inProduction = [[settings valueForKey:@"com.urbanairship.in_production"] boolValue];
+        NSLog(@"PRODUCTION: %d", config.inProduction);
     }
+
+    NSLog(@"Delete Keychain Access: %d", config.clearKeychain);
     
     // Create Airship singleton that's used to talk to Urban Airship servers.
     // Please populate AirshipConfig.plist with your info from http://go.urbanairship.com

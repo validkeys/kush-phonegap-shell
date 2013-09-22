@@ -61,11 +61,12 @@
         <param name="android-package" value="com.urbanairship.phonegap.PushNotificationPlugin" />
         <param name="onload" value="true" />
     </feature>
-    
+
     <preference name="com.urbanairship.production_app_key" value="M62K2RnlS8SiO7MOaAxtmw" />
     <preference name="com.urbanairship.production_app_secret" value="WVKu4evtQbmfsB-nqHterw" />
     <preference name="com.urbanairship.development_app_key" value="naPzDmqoQJCQFojd3YiWcg" />
     <preference name="com.urbanairship.development_app_secret" value="riEKMVgcRZmRf22o3KCatw" />
-    <preference name="com.urbanairship.in_production" value="false" />
+    <preference name="com.urbanairship.in_production" value="NO" />
+    <preference name="com.urbanairship.clear_keychain" value="NO" />
     <!--preference name="com.urbanairship.gcm_sender" value="Android only: Your GCM sender id" /-->    
 </widget>

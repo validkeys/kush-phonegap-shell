@@ -20,6 +20,7 @@ public class PushAutopilot extends Autopilot {
     static final String DEVELOPMENT_SECRET = "com.urbanairship.development_app_secret";
     static final String IN_PRODUCTION = "com.urbanairship.in_production";
     static final String GCM_SENDER = "com.urbanairship.gcm_sender";
+    static final String CLEAR_KEYCHAIN = "com.urbanairship.clear_keychain"
 
     @Override
     public void execute(Application application) {
@@ -45,6 +46,7 @@ public class PushAutopilot extends Autopilot {
         options.developmentAppSecret = configOptions.getString(DEVELOPMENT_SECRET, options.developmentAppSecret);
         options.gcmSender = configOptions.getString(GCM_SENDER, options.gcmSender);
         options.inProduction = configOptions.getBoolean(IN_PRODUCTION, options.inProduction);
+        options.clearKeychain = configOptions.getBoolean(CLEAR_KEYCHAIN, options.clearKeychain);
 
         // Always enable the use of the location service.  This does not mean
         // that location is enabled.  Still need to call enableLocation for that.

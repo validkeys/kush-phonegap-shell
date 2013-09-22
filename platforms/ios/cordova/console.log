@@ -492,3 +492,19 @@ Terminating in response to SpringBoard's termination.
 2013-09-21 19:07:17.367 Kush[10088:1003] [D] +[UAKeychainUtils getDeviceID] [Line 246] Loaded Device ID: 939E82DF-8233-4353-B986-EAA7F05470D3
 2013-09-21 19:07:17.368 Kush[10088:1003] [D] +[UAKeychainUtils getDeviceID] [Line 247] Loaded Model Name: x86_64
 2013-09-21 19:07:17.618 Kush[10088:a0b] [D] __39-[UAAnalytics sendOperationWithEvents:]_block_invoke [Line 622] Analytics data sent successfully. Status: 200
+2013-09-21 21:11:40.428 Kush[14770:a0b] Multi-tasking -> Device: YES, App: YES
+2013-09-21 21:11:40.455 Kush[14770:a0b] Fix applied for database locations?: YES
+2013-09-21 21:11:40.497 Kush[14770:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 149] App Key: naPzDmqoQJCQFojd3YiWcg
+2013-09-21 21:11:40.498 Kush[14770:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 150] App Secret: riEKMVgcRZmRf22o3KCatw
+2013-09-21 21:11:40.499 Kush[14770:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 151] Server: https://device-api.urbanairship.com
+2013-09-21 21:11:40.500 Kush[14770:a0b] [D] -[UAirship configureUserAgent] [Line 288] Setting User-Agent for UA requests to Kush 1.0.0 (iPhone Simulator; iPhone OS 7.0; UALib 2.0.3; naPzDmqoQJCQFojd3YiWcg; en_US)
+2013-09-21 21:11:40.504 Kush[14770:a0b] [D] void PrintReachabilityFlags(SCNetworkReachabilityFlags, const char *) [Line 79] Reachability Flag Status: -R -----l- networkStatusForFlags
+2013-09-21 21:11:40.511 Kush[14770:a0b] [CDVTimer][pushnotificationplugin] 21.357000ms
+2013-09-21 21:11:40.511 Kush[14770:a0b] [CDVTimer][TotalPluginStartup] 22.079051ms
+2013-09-21 21:11:40.809 Kush[14770:a0b] Resetting plugins due to page load.
+2013-09-21 21:11:40.812 Kush[14770:a0b] [E] -[UAAutoAppDelegate application:didFailToRegisterForRemoteNotificationsWithError:] [Line 43] Failed To Register For Remote Notifications With Error: Error Domain=NSCocoaErrorDomain Code=3010 "remote notifications are not supported in the simulator" UserInfo=0xcc97620 {NSLocalizedDescription=remote notifications are not supported in the simulator}
+2013-09-21 21:11:41.396 Kush[14770:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0-64/Applications/0D313822-CF37-432A-A7DB-D6F9E304F416/Kush.app/www/index.html#login
+2013-09-21 21:11:55.510 Kush[14770:1203] [D] +[UAKeychainUtils getDeviceID] [Line 236] Retrieved device id info from keychain.
+2013-09-21 21:11:55.510 Kush[14770:1203] [D] +[UAKeychainUtils getDeviceID] [Line 246] Loaded Device ID: 939E82DF-8233-4353-B986-EAA7F05470D3
+2013-09-21 21:11:55.511 Kush[14770:1203] [D] +[UAKeychainUtils getDeviceID] [Line 247] Loaded Model Name: x86_64
+2013-09-21 21:11:55.687 Kush[14770:a0b] [D] __39-[UAAnalytics sendOperationWithEvents:]_block_invoke [Line 622] Analytics data sent successfully. Status: 200
