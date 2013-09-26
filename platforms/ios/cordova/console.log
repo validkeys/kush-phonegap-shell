@@ -553,3 +553,88 @@ Terminating in response to SpringBoard's termination.
 2013-09-22 13:01:41.425 Kush[32923:c07] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/C364001F-42BE-47D7-83D9-73B710E80B61/Kush.app/www/index.html#login
 2013-09-22 13:01:42.454 Kush[32923:c07] Resetting plugins due to page load.
 2013-09-22 13:01:44.223 Kush[32923:c07] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/C364001F-42BE-47D7-83D9-73B710E80B61/Kush.app/www/index.html#login
+2013-09-25 18:15:33.010 Kush[63550:c07] Multi-tasking -> Device: YES, App: YES
+2013-09-25 18:15:33.070 Kush[63550:c07] PRODUCTION: 0
+2013-09-25 18:15:33.076 Kush[63550:c07] Delete Keychain Access: 0
+2013-09-25 18:15:33.088 Kush[63550:c07] [I] +[UAirship executeUnsafeTakeOff:] [Line 149] App Key: naPzDmqoQJCQFojd3YiWcg
+2013-09-25 18:15:33.089 Kush[63550:c07] [I] +[UAirship executeUnsafeTakeOff:] [Line 150] App Secret: riEKMVgcRZmRf22o3KCatw
+2013-09-25 18:15:33.090 Kush[63550:c07] [I] +[UAirship executeUnsafeTakeOff:] [Line 151] Server: https://device-api.urbanairship.com
+2013-09-25 18:15:33.091 Kush[63550:c07] [D] -[UAirship configureUserAgent] [Line 288] Setting User-Agent for UA requests to Kush 1.0.0 (iPhone Simulator; iPhone OS 6.1; UALib 2.0.3; naPzDmqoQJCQFojd3YiWcg; en_US)
+2013-09-25 18:15:33.094 Kush[63550:c07] [D] void PrintReachabilityFlags(SCNetworkReachabilityFlags, const char *) [Line 79] Reachability Flag Status: -R -----l- networkStatusForFlags
+2013-09-25 18:15:33.101 Kush[63550:c07] [CDVTimer][pushnotificationplugin] 33.747017ms
+2013-09-25 18:15:33.103 Kush[63550:c07] [CDVTimer][TotalPluginStartup] 34.983039ms
+2013-09-25 18:15:33.226 Kush[63550:c07] [E] -[UAAutoAppDelegate application:didFailToRegisterForRemoteNotificationsWithError:] [Line 43] Failed To Register For Remote Notifications With Error: Error Domain=NSCocoaErrorDomain Code=3010 "remote notifications are not supported in the simulator" UserInfo=0xb07f240 {NSLocalizedDescription=remote notifications are not supported in the simulator}
+2013-09-25 18:15:33.229 Kush[63550:c07] Resetting plugins due to page load.
+2013-09-25 18:15:34.361 Kush[63550:c07] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/C364001F-42BE-47D7-83D9-73B710E80B61/Kush.app/www/index.html#login
+2013-09-25 18:15:34.721 Kush[63550:c07] Simulator slow-motion animations are now on
+2013-09-25 18:15:48.290 Kush[63550:8903] [D] +[UAKeychainUtils getDeviceID] [Line 236] Retrieved device id info from keychain.
+2013-09-25 18:15:48.290 Kush[63550:8903] [D] +[UAKeychainUtils getDeviceID] [Line 246] Loaded Device ID: C7A7B758-3C52-4936-BFA7-796FB5C9ECE2
+2013-09-25 18:15:48.291 Kush[63550:8903] [D] +[UAKeychainUtils getDeviceID] [Line 247] Loaded Model Name: x86_64
+2013-09-25 18:15:48.460 Kush[63550:c07] [D] __39-[UAAnalytics sendOperationWithEvents:]_block_invoke [Line 622] Analytics data sent successfully. Status: 200
+2013-09-25 18:53:38.307 Kush[64988:a0b] Multi-tasking -> Device: YES, App: YES
+2013-09-25 18:53:38.340 Kush[64988:a0b] PRODUCTION: 0
+2013-09-25 18:53:38.341 Kush[64988:a0b] Delete Keychain Access: 0
+2013-09-25 18:53:38.350 Kush[64988:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 149] App Key: naPzDmqoQJCQFojd3YiWcg
+2013-09-25 18:53:38.350 Kush[64988:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 150] App Secret: riEKMVgcRZmRf22o3KCatw
+2013-09-25 18:53:38.351 Kush[64988:a0b] [I] +[UAirship executeUnsafeTakeOff:] [Line 151] Server: https://device-api.urbanairship.com
+2013-09-25 18:53:38.353 Kush[64988:a0b] [D] -[UAirship configureUserAgent] [Line 288] Setting User-Agent for UA requests to Kush 1.0.0 (iPhone Simulator; iPhone OS 7.0; UALib 2.0.3; naPzDmqoQJCQFojd3YiWcg; en_US)
+2013-09-25 18:53:38.359 Kush[64988:a0b] [D] void PrintReachabilityFlags(SCNetworkReachabilityFlags, const char *) [Line 79] Reachability Flag Status: -R -----l- networkStatusForFlags
+2013-09-25 18:53:38.368 Kush[64988:a0b] [CDVTimer][pushnotificationplugin] 27.785003ms
+2013-09-25 18:53:38.370 Kush[64988:a0b] [CDVTimer][TotalPluginStartup] 30.035019ms
+2013-09-25 18:53:38.602 Kush[64988:a0b] Resetting plugins due to page load.
+2013-09-25 18:53:38.604 Kush[64988:a0b] [E] -[UAAutoAppDelegate application:didFailToRegisterForRemoteNotificationsWithError:] [Line 43] Failed To Register For Remote Notifications With Error: Error Domain=NSCocoaErrorDomain Code=3010 "remote notifications are not supported in the simulator" UserInfo=0xc16c690 {NSLocalizedDescription=remote notifications are not supported in the simulator}
+2013-09-25 18:53:39.250 Kush[64988:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/9B74A445-FA01-4A45-B47A-037926A427F1/Kush.app/www/index.html#login
+2013-09-25 18:53:58.368 Kush[64988:1203] [D] +[UAKeychainUtils getDeviceID] [Line 236] Retrieved device id info from keychain.
+2013-09-25 18:53:58.368 Kush[64988:1203] [D] +[UAKeychainUtils getDeviceID] [Line 246] Loaded Device ID: 0CE10563-6EB6-4CAE-92B7-1B6B897B9156
+2013-09-25 18:53:58.368 Kush[64988:1203] [D] +[UAKeychainUtils getDeviceID] [Line 247] Loaded Model Name: x86_64
+2013-09-25 18:53:58.573 Kush[64988:a0b] [D] __39-[UAAnalytics sendOperationWithEvents:]_block_invoke [Line 622] Analytics data sent successfully. Status: 200
+2013-09-25 18:54:05.581 Kush[64988:a0b] Resetting plugins due to page load.
+2013-09-25 18:54:05.956 Kush[64988:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/9B74A445-FA01-4A45-B47A-037926A427F1/Kush.app/www/index.html#login
+2013-09-25 18:55:44.176 Kush[64988:a0b] ERROR: Plugin 'org.apache.cordova.facebook.Connect' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2013-09-25 18:55:44.177 Kush[64988:a0b] -[CDVCommandQueue executePending] [Line 116] FAILED pluginJSON = [
+  "org.apache.cordova.facebook.Connect776908323",
+  "org.apache.cordova.facebook.Connect",
+  "init",
+  [
+    "165551683650094"
+  ]
+]
+2013-09-25 18:55:44.177 Kush[64988:a0b] ERROR: Plugin 'org.apache.cordova.facebook.Connect' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2013-09-25 18:55:44.178 Kush[64988:a0b] -[CDVCommandQueue executePending] [Line 116] FAILED pluginJSON = [
+  "org.apache.cordova.facebook.Connect776908324",
+  "org.apache.cordova.facebook.Connect",
+  "getLoginStatus",
+  [
+
+  ]
+]
+2013-09-25 18:56:11.988 Kush[64988:a0b] ERROR: Plugin 'org.apache.cordova.facebook.Connect' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2013-09-25 18:56:11.989 Kush[64988:a0b] -[CDVCommandQueue executePending] [Line 116] FAILED pluginJSON = [
+  "org.apache.cordova.facebook.Connect776908325",
+  "org.apache.cordova.facebook.Connect",
+  "getLoginStatus",
+  [
+
+  ]
+]
+2013-09-25 18:56:45.547 Kush[64988:a0b] Resetting plugins due to page load.
+2013-09-25 18:56:46.276 Kush[64988:a0b] Finished load of: file:///Users/kyledavis/Library/Application%20Support/iPhone%20Simulator/7.0/Applications/9B74A445-FA01-4A45-B47A-037926A427F1/Kush.app/www/index.html#login
+2013-09-25 20:20:10.951 Kush[64988:a0b] Resetting plugins due to page load.
+2013-09-25 20:20:11.627 Kush[64988:a0b] ERROR: Plugin 'org.apache.cordova.facebook.Connect' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2013-09-25 20:20:11.628 Kush[64988:a0b] -[CDVCommandQueue executePending] [Line 116] FAILED pluginJSON = [
+  "org.apache.cordova.facebook.Connect1151934383",
+  "org.apache.cordova.facebook.Connect",
+  "init",
+  [
+    "165551683650094"
+  ]
+]
+2013-09-25 20:20:11.629 Kush[64988:a0b] ERROR: Plugin 'org.apache.cordova.facebook.Connect' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2013-09-25 20:20:11.629 Kush[64988:a0b] -[CDVCommandQueue executePending] [Line 116] FAILED pluginJSON = [
+  "org.apache.cordova.facebook.Connect1151934384",
+  "org.apache.cordova.facebook.Connect",
+  "getLoginStatus",
+  [
+
+  ]
+]
