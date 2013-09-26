@@ -40,11 +40,11 @@ var shell = {
     },
 
     onResume: function(){
-        // Refresh the page
-        if (typeOf App !== undefined){
-            alert("I CAN SEE APP!");
+        // send out the vent to the marionette app
+        if ((typeof App !== "undefined" && App !== null ? App.vent : void 0) != null) {
+          App.vent.trigger("device:resume");
         }
-        // location.reload()
+
     },
     // Update DOM on a Received Event
     receivedEvent: function(id) {
