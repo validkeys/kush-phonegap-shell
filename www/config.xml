@@ -62,6 +62,10 @@
         <param name="onload" value="true" />
     </feature>
 
+    <feature name="org.apache.cordova.facebook.Connect">
+        <param name="ios-package" value="FacebookConnectPlugin" />
+    </feature>
+
     <preference name="com.urbanairship.production_app_key" value="M62K2RnlS8SiO7MOaAxtmw" />
     <preference name="com.urbanairship.production_app_secret" value="WVKu4evtQbmfsB-nqHterw" />
     <preference name="com.urbanairship.development_app_key" value="naPzDmqoQJCQFojd3YiWcg" />

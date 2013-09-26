@@ -41,7 +41,10 @@ var shell = {
 
     onResume: function(){
         // Refresh the page
-        location.reload()
+        if (typeOf App !== undefined){
+            alert("I CAN SEE APP!");
+        }
+        // location.reload()
     },
     // Update DOM on a Received Event
     receivedEvent: function(id) {
