@@ -26,18 +26,37 @@
         <link rel="stylesheet" type="text/css" href="css/index.css" />
 
         <!-- REMOTE -->
-        <link rel="stylesheet" href="http://kyle.local:8888/kish_app/dist/css/styles.min.css">
+        <link rel="stylesheet" href="http://app.kushapp.com/css/styles.min.css">
         <!-- END:REMOTE -->
 
+        <!-- REMOTE -->
+        <script src="http://app.kushapp.com/js/app.min.js"></script>
+        <!-- END:REMOTE -->
 
         <script type="text/javascript" src="https://www.youtube.com/iframe_api"></script>
         <script type="text/javascript" src="cordova.js"></script>
-        <script type="text/javascript" src="PushNotification.js"></script>
         <script type="text/javascript" src="js/index.js"></script>
+        <script type="text/javascript" src="PushNotification.js"></script>
+        <script src="cdv-plugin-fb-connect.js"></script>
 
         <script type="text/javascript">
             shell.initialize();
         </script>
+
+        <style type="text/css">
+            div#cover-region{
+                position: absolute;
+                top: 0;
+                left: 0;
+                z-index: 10000;
+                width: 100%;
+                height: 100%;
+                background-image: url(img/cover.png);
+                background-repeat: no-repeat;
+                background-size: cover;
+                background-position: top center;
+            }
+        </style>        
 
         <title>KUSH</title>
     </head>
@@ -52,13 +71,12 @@
         <div id="modal-region" class="full-modal"></div>
         <div id="notification-region"></div>
         <div id="cover-region"></div>
-        
-        <!-- REMOTE -->
-        <script src="http://kyle.local:8888/kish_app/dist/js/app.min.js"></script>
-        <!-- END:REMOTE -->        
+                
 
         <script type="text/javascript">
-            App.start();
+            document.addEventListener('deviceready', function(){
+                App.start();
+            });
         </script>
     </body>
 </html>

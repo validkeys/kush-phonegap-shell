@@ -5,6 +5,7 @@
 	};
 	objectVersion = 46;
 	objects = {
+
 /* Begin PBXBuildFile section */
 		004FACE317F39CFB008D17F4 /* FacebookSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 004FACE217F39CFB008D17F4 /* FacebookSDK.framework */; };
 		004FAD1017F39E15008D17F4 /* Social.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 004FAD0F17F39E15008D17F4 /* Social.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
@@ -12,6 +13,12 @@
 		004FAD1417F39E31008D17F4 /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 004FAD1317F39E31008D17F4 /* AdSupport.framework */; };
 		004FAD1817F39E8F008D17F4 /* FacebookConnectPlugin.m in Sources */ = {isa = PBXBuildFile; fileRef = 004FAD1717F39E8F008D17F4 /* FacebookConnectPlugin.m */; };
 		00D8DBCF17EDE5AF0018D3BE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 00D8DBCE17EDE5AF0018D3BE /* Images.xcassets */; };
+		00DB38C017F7157E004D9F63 /* icon-120.png in Resources */ = {isa = PBXBuildFile; fileRef = 00DB38BD17F7157E004D9F63 /* icon-120.png */; };
+		00DB38C117F7157E004D9F63 /* icon-58.png in Resources */ = {isa = PBXBuildFile; fileRef = 00DB38BE17F7157E004D9F63 /* icon-58.png */; };
+		00DB38C217F7157E004D9F63 /* icon-80.png in Resources */ = {isa = PBXBuildFile; fileRef = 00DB38BF17F7157E004D9F63 /* icon-80.png */; };
+		00DB38C617F71832004D9F63 /* icon-29.png in Resources */ = {isa = PBXBuildFile; fileRef = 00DB38C517F71832004D9F63 /* icon-29.png */; };
+		00DB38C917F71876004D9F63 /* icon-57.png in Resources */ = {isa = PBXBuildFile; fileRef = 00DB38C717F71876004D9F63 /* icon-57.png */; };
+		00DB38CA17F71876004D9F63 /* icon-114.png in Resources */ = {isa = PBXBuildFile; fileRef = 00DB38C817F71876004D9F63 /* icon-114.png */; };
 		1D3623260D0F684500981E51 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* AppDelegate.m */; };
 		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
 		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
@@ -39,13 +46,9 @@
 		3088BBC0154F3926009F9C59 /* Default-Portrait~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 3088BBBA154F3926009F9C59 /* Default-Portrait~ipad.png */; };
 		3088BBC1154F3926009F9C59 /* Default@2x~iphone.png in Resources */ = {isa = PBXBuildFile; fileRef = 3088BBBB154F3926009F9C59 /* Default@2x~iphone.png */; };
 		3088BBC2154F3926009F9C59 /* Default~iphone.png in Resources */ = {isa = PBXBuildFile; fileRef = 3088BBBC154F3926009F9C59 /* Default~iphone.png */; };
-		308D05371370CCF300D202BF /* icon-72.png in Resources */ = {isa = PBXBuildFile; fileRef = 308D052E1370CCF300D202BF /* icon-72.png */; };
-		308D05381370CCF300D202BF /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 308D052F1370CCF300D202BF /* icon.png */; };
-		308D05391370CCF300D202BF /* icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 308D05301370CCF300D202BF /* icon@2x.png */; };
 		30A0434814DC770100060A13 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 30A0434314DC770100060A13 /* Localizable.strings */; };
 		30A0434914DC770100060A13 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 30A0434614DC770100060A13 /* Localizable.strings */; };
 		30E5649213A7FCAF007403D8 /* CoreMedia.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 30E5649113A7FCAF007403D8 /* CoreMedia.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
-		30FC414916E50CA1004E6F35 /* icon-72@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 30FC414816E50CA1004E6F35 /* icon-72@2x.png */; };
 		395C712998704142AD8ABC78 /* CDVDevice.m in Sources */ = {isa = PBXBuildFile; fileRef = E50DC6612F9F4634B426C7F3 /* CDVDevice.m */; };
 		3E66B304078F44F9B175F542 /* libz.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 18262658EBC346038825BC40 /* libz.dylib */; };
 		51ED83CC52B7459F962544E7 /* libUAirship-2.0.3.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 41C91DEA10F248809D55CAFE /* libUAirship-2.0.3.a */; };
@@ -78,6 +81,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		00264AE617F84F38005DBFED /* Kush copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "Kush copy-Info.plist"; path = "/Users/kyledavis/Documents/Phonegap/platforms/ios/Kush copy-Info.plist"; sourceTree = "<absolute>"; };
 		004FACE217F39CFB008D17F4 /* FacebookSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = FacebookSDK.framework; path = ../../../FacebookSDK/FacebookSDK.framework; sourceTree = "<group>"; };
 		004FACE517F39D4E008D17F4 /* Facebook.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Facebook.h; sourceTree = "<group>"; };
 		004FACE617F39D4E008D17F4 /* FacebookSDK.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FacebookSDK.h; sourceTree = "<group>"; };
@@ -126,10 +130,27 @@
 		004FAD1317F39E31008D17F4 /* AdSupport.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AdSupport.framework; path = System/Library/Frameworks/AdSupport.framework; sourceTree = SDKROOT; };
 		004FAD1617F39E85008D17F4 /* FacebookConnectPlugin.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FacebookConnectPlugin.h; path = "../../../../../../Downloads/phonegap-facebook-plugin-master/src/ios/FacebookConnectPlugin.h"; sourceTree = "<group>"; };
 		004FAD1717F39E8F008D17F4 /* FacebookConnectPlugin.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FacebookConnectPlugin.m; path = "../../../../../../Downloads/phonegap-facebook-plugin-master/src/ios/FacebookConnectPlugin.m"; sourceTree = "<group>"; };
+		007ECE5017F84EE000DCB0FC /* kushdev-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "kushdev-Info.plist"; sourceTree = "<group>"; };
+		007ECE5217F84EE000DCB0FC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		007ECE5417F84EE000DCB0FC /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		007ECE5617F84EE000DCB0FC /* kushdev-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "kushdev-Prefix.pch"; sourceTree = "<group>"; };
+		007ECE5717F84EE000DCB0FC /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		007ECE5817F84EE000DCB0FC /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		007ECE5A17F84EE100DCB0FC /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		007ECE6117F84EE100DCB0FC /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		007ECE6917F84EE100DCB0FC /* kushdevTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "kushdevTests-Info.plist"; sourceTree = "<group>"; };
+		007ECE6B17F84EE100DCB0FC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		007ECE6D17F84EE100DCB0FC /* kushdevTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = kushdevTests.m; sourceTree = "<group>"; };
 		00D8DBCE17EDE5AF0018D3BE /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = Kush/Images.xcassets; sourceTree = SOURCE_ROOT; };
 		00D8DBD017EDE7E10018D3BE /* icon-120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icon-120.png"; path = "Kush/Resources/icons/icon-120.png"; sourceTree = "<group>"; };
 		00D8DBD117EDE7EE0018D3BE /* icon-80.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icon-80.png"; path = "Kush/Resources/icons/icon-80.png"; sourceTree = "<group>"; };
 		00D8DBD217EDE7FA0018D3BE /* icon-58.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icon-58.png"; path = "Kush/Resources/icons/icon-58.png"; sourceTree = "<group>"; };
+		00DB38BD17F7157E004D9F63 /* icon-120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-120.png"; sourceTree = "<group>"; };
+		00DB38BE17F7157E004D9F63 /* icon-58.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-58.png"; sourceTree = "<group>"; };
+		00DB38BF17F7157E004D9F63 /* icon-80.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-80.png"; sourceTree = "<group>"; };
+		00DB38C517F71832004D9F63 /* icon-29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-29.png"; sourceTree = "<group>"; };
+		00DB38C717F71876004D9F63 /* icon-57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-57.png"; sourceTree = "<group>"; };
+		00DB38C817F71876004D9F63 /* icon-114.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-114.png"; sourceTree = "<group>"; };
 		064D184A12B54E4994DF3809 /* UAPush.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UAPush.h; path = com.urbanairship.phonegap.PushNotification/UAPush.h; sourceTree = "<group>"; };
 		06607D53BDEA4EDEB1EB690A /* UA_SBJsonBase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UA_SBJsonBase.h; path = com.urbanairship.phonegap.PushNotification/UA_SBJsonBase.h; sourceTree = "<group>"; };
 		123D9A34FFC742C48D4AE916 /* UATagUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UATagUtils.h; path = com.urbanairship.phonegap.PushNotification/UATagUtils.h; sourceTree = "<group>"; };
@@ -173,13 +194,9 @@
 		3088BBBA154F3926009F9C59 /* Default-Portrait~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-Portrait~ipad.png"; sourceTree = "<group>"; };
 		3088BBBB154F3926009F9C59 /* Default@2x~iphone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x~iphone.png"; sourceTree = "<group>"; };
 		3088BBBC154F3926009F9C59 /* Default~iphone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default~iphone.png"; sourceTree = "<group>"; };
-		308D052E1370CCF300D202BF /* icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-72.png"; sourceTree = "<group>"; };
-		308D052F1370CCF300D202BF /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
-		308D05301370CCF300D202BF /* icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon@2x.png"; sourceTree = "<group>"; };
 		30A0434414DC770100060A13 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = Localizable.strings; sourceTree = "<group>"; };
 		30A0434714DC770100060A13 /* se */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = se; path = Localizable.strings; sourceTree = "<group>"; };
 		30E5649113A7FCAF007403D8 /* CoreMedia.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMedia.framework; path = System/Library/Frameworks/CoreMedia.framework; sourceTree = SDKROOT; };
-		30FC414816E50CA1004E6F35 /* icon-72@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-72@2x.png"; sourceTree = "<group>"; };
 		32CA4F630368D1EE00C91783 /* Kush-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Kush-Prefix.pch"; sourceTree = "<group>"; };
 		35164EE54DD544D08B43DD79 /* UA_Base64.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UA_Base64.h; path = com.urbanairship.phonegap.PushNotification/UA_Base64.h; sourceTree = "<group>"; };
 		3565087638B9496782989A5E /* PushPlugin.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PushPlugin.m; path = com.phonegap.plugins.PushPlugin/PushPlugin.m; sourceTree = "<group>"; };
@@ -327,6 +344,60 @@
 			name = ios;
 			sourceTree = "<group>";
 		};
+		007ECE4E17F84EE000DCB0FC /* kushdev */ = {
+			isa = PBXGroup;
+			children = (
+				007ECE5717F84EE000DCB0FC /* AppDelegate.h */,
+				007ECE5817F84EE000DCB0FC /* AppDelegate.m */,
+				007ECE5A17F84EE100DCB0FC /* Images.xcassets */,
+				007ECE4F17F84EE000DCB0FC /* Supporting Files */,
+			);
+			path = kushdev;
+			sourceTree = "<group>";
+		};
+		007ECE4F17F84EE000DCB0FC /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				007ECE5017F84EE000DCB0FC /* kushdev-Info.plist */,
+				007ECE5117F84EE000DCB0FC /* InfoPlist.strings */,
+				007ECE5417F84EE000DCB0FC /* main.m */,
+				007ECE5617F84EE000DCB0FC /* kushdev-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		007ECE6717F84EE100DCB0FC /* kushdevTests */ = {
+			isa = PBXGroup;
+			children = (
+				007ECE6D17F84EE100DCB0FC /* kushdevTests.m */,
+				007ECE6817F84EE100DCB0FC /* Supporting Files */,
+			);
+			path = kushdevTests;
+			sourceTree = "<group>";
+		};
+		007ECE6817F84EE100DCB0FC /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				007ECE6917F84EE100DCB0FC /* kushdevTests-Info.plist */,
+				007ECE6A17F84EE100DCB0FC /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		00DB38BC17F7157E004D9F63 /* offwhite */ = {
+			isa = PBXGroup;
+			children = (
+				00DB38C717F71876004D9F63 /* icon-57.png */,
+				00DB38C817F71876004D9F63 /* icon-114.png */,
+				00DB38C517F71832004D9F63 /* icon-29.png */,
+				00DB38BD17F7157E004D9F63 /* icon-120.png */,
+				00DB38BE17F7157E004D9F63 /* icon-58.png */,
+				00DB38BF17F7157E004D9F63 /* icon-80.png */,
+			);
+			name = offwhite;
+			path = ../../../../../../../Dropbox/Kush/Icons/offwhite;
+			sourceTree = "<group>";
+		};
 		080E96DDFE201D6D7F000001 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
@@ -377,8 +448,11 @@
 				307C750510C5A3420062BCA9 /* Plugins */,
 				29B97315FDCFA39411CA2CEA /* Other Sources */,
 				29B97317FDCFA39411CA2CEA /* Resources */,
+				007ECE4E17F84EE000DCB0FC /* kushdev */,
+				007ECE6717F84EE100DCB0FC /* kushdevTests */,
 				29B97323FDCFA39411CA2CEA /* Frameworks */,
 				19C28FACFE9D520D11CA2CBB /* Products */,
+				00264AE617F84F38005DBFED /* Kush copy-Info.plist */,
 			);
 			name = CustomTemplate;
 			sourceTree = "<group>";
@@ -440,6 +514,7 @@
 				18262658EBC346038825BC40 /* libz.dylib */,
 				E5A80C66763A40E98D0620C1 /* Security.framework */,
 				BAF6A460F7304B2396BA1647 /* CoreTelephony.framework */,
+				007ECE6117F84EE100DCB0FC /* XCTest.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -512,10 +587,7 @@
 		308D052D1370CCF300D202BF /* icons */ = {
 			isa = PBXGroup;
 			children = (
-				30FC414816E50CA1004E6F35 /* icon-72@2x.png */,
-				308D052E1370CCF300D202BF /* icon-72.png */,
-				308D052F1370CCF300D202BF /* icon.png */,
-				308D05301370CCF300D202BF /* icon@2x.png */,
+				00DB38BC17F7157E004D9F63 /* offwhite */,
 			);
 			path = icons;
 			sourceTree = "<group>";
@@ -629,24 +701,26 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				00DB38CA17F71876004D9F63 /* icon-114.png in Resources */,
 				F840E1F1165FE0F500CFE078 /* config.xml in Resources */,
-				308D05371370CCF300D202BF /* icon-72.png in Resources */,
-				308D05381370CCF300D202BF /* icon.png in Resources */,
-				308D05391370CCF300D202BF /* icon@2x.png in Resources */,
 				1F766FE113BBADB100FB74C0 /* Localizable.strings in Resources */,
 				1F766FE213BBADB100FB74C0 /* Localizable.strings in Resources */,
+				00DB38C017F7157E004D9F63 /* icon-120.png in Resources */,
 				302D95F214D2391D003F00A1 /* MainViewController.xib in Resources */,
 				30A0434814DC770100060A13 /* Localizable.strings in Resources */,
 				30A0434914DC770100060A13 /* Localizable.strings in Resources */,
 				00D8DBCF17EDE5AF0018D3BE /* Images.xcassets in Resources */,
 				3088BBBD154F3926009F9C59 /* Default-Landscape@2x~ipad.png in Resources */,
+				00DB38C917F71876004D9F63 /* icon-57.png in Resources */,
+				00DB38C217F7157E004D9F63 /* icon-80.png in Resources */,
 				3088BBBE154F3926009F9C59 /* Default-Landscape~ipad.png in Resources */,
 				3088BBBF154F3926009F9C59 /* Default-Portrait@2x~ipad.png in Resources */,
 				3088BBC0154F3926009F9C59 /* Default-Portrait~ipad.png in Resources */,
+				00DB38C117F7157E004D9F63 /* icon-58.png in Resources */,
 				3088BBC1154F3926009F9C59 /* Default@2x~iphone.png in Resources */,
 				3088BBC2154F3926009F9C59 /* Default~iphone.png in Resources */,
 				D4A0D8761607E02300AEF8BB /* Default-568h@2x~iphone.png in Resources */,
-				30FC414916E50CA1004E6F35 /* icon-72@2x.png in Resources */,
+				00DB38C617F71832004D9F63 /* icon-29.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -695,6 +769,22 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
+		007ECE5117F84EE000DCB0FC /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				007ECE5217F84EE000DCB0FC /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		007ECE6A17F84EE100DCB0FC /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				007ECE6B17F84EE100DCB0FC /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
 		1F766FDC13BBADB100FB74C0 /* Localizable.strings */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -734,11 +824,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-2";
-				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_OBJC_ARC = YES;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Kyle Davis (RDJ8KG4T58)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Kyle Davis (RDJ8KG4T58)";
 				COPY_PHASE_STRIP = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -772,7 +861,7 @@
 					"-ObjC",
 				);
 				PRODUCT_NAME = Kush;
-				PROVISIONING_PROFILE = "E91CB394-9454-42B8-A48A-7BA61A33BC5E";
+				PROVISIONING_PROFILE = "2BF69D07-79B3-4FB8-B136-DED7CB4BA29C";
 				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
@@ -781,11 +870,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-2";
-				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_OBJC_ARC = YES;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Kyle Davis (RDJ8KG4T58)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				COPY_PHASE_STRIP = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -818,7 +906,7 @@
 					"-ObjC",
 				);
 				PRODUCT_NAME = Kush;
-				PROVISIONING_PROFILE = "E91CB394-9454-42B8-A48A-7BA61A33BC5E";
+				PROVISIONING_PROFILE = "2BF69D07-79B3-4FB8-B136-DED7CB4BA29C";
 				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
