@@ -26,18 +26,52 @@
         <link rel="stylesheet" type="text/css" href="css/index.css" />
 
         <!-- REMOTE -->
-        <link rel="stylesheet" href="http://app.kushapp.com/css/styles.min.css">
+        <link href="http://kyle.local:8888/kish_app/tmp/css/bootstrap.css" rel="stylesheet">
+        <link href="http://kyle.local:8888/kish_app/tmp/css/font-awesome.css" rel="stylesheet">
+        <link href="http://kyle.local:8888/kish_app/tmp/css/application.css" rel="stylesheet">
         <!-- END:REMOTE -->
+
 
         <!-- REMOTE -->
-        <script src="http://app.kushapp.com/js/app.min.js"></script>
-        <!-- END:REMOTE -->
 
         <script type="text/javascript" src="https://www.youtube.com/iframe_api"></script>
+        <script src="http://kyle.local:8888/kish_app/tmp/js/vendor/jquery.js"></script>
+        <script src="http://kyle.local:8888/kish_app/tmp/js/vendor/jquery.transit.min.js"></script>
+        <script src="http://kyle.local:8888/kish_app/tmp/js/vendor/json2.js"></script>
+        <script src="http://kyle.local:8888/kish_app/tmp/js/vendor/underscore.js"></script>
+        <script src="http://kyle.local:8888/kish_app/tmp/js/vendor/handlebars.runtime.js"></script>
+        <script src="http://kyle.local:8888/kish_app/tmp/js/vendor/backbone.js"></script>
+        <script src="http://kyle.local:8888/kish_app/tmp/js/vendor/backbone.computedfields.js"></script>
+        <script src="http://kyle.local:8888/kish_app/tmp/js/vendor/backbone-filtered-collection.js"></script>
+        <script src="http://kyle.local:8888/kish_app/tmp/js/vendor/supermodel.js"></script>
+        <script src="http://kyle.local:8888/kish_app/tmp/js/vendor/backbone.marionette.js"></script>
+        <script src="http://kyle.local:8888/kish_app/tmp/js/vendor/jquery.storageapi.js"></script>
+        <script src="http://kyle.local:8888/kish_app/tmp/js/vendor/vendor.js"></script>
+        <script src="http://kyle.local:8888/kish_app/tmp/js/vendor/backbone.syphon.js"></script>
+        <script src="http://kyle.local:8888/kish_app/tmp/js/vendor/spin.js"></script>
+        <script src="http://kyle.local:8888/kish_app/tmp/js/vendor/spin.jquery.js"></script>
+        <script src="http://kyle.local:8888/kish_app/tmp/js/vendor/backbone.picky.js"></script>
+        <script src="http://kyle.local:8888/kish_app/tmp/js/vendor/facebook-js-sdk.js"></script>
+
+        <script src="http://kyle.local:8888/kish_app/tmp/js/config.js"></script>
+        <script src="http://kyle.local:8888/kish_app/tmp/js/app.js"></script>
+        <script src="http://kyle.local:8888/kish_app/tmp/js/controllers.js"></script>
+        <script src="http://kyle.local:8888/kish_app/tmp/js/templates.js"></script>
+        <script src="http://kyle.local:8888/kish_app/tmp/js/views.js"></script>
+        <script src="http://kyle.local:8888/kish_app/tmp/js/entities.js"></script>
+        <script src="http://kyle.local:8888/kish_app/tmp/js/entity_dependencies.js"></script>
+        <script src="http://kyle.local:8888/kish_app/tmp/js/components.js"></script>
+        <script src="http://kyle.local:8888/kish_app/tmp/js/apps.js"></script>
+        <script src="http://kyle.local:8888/kish_app/tmp/js/app_assets.js"></script>
+
+        <!-- END:REMOTE -->
+
+
         <script type="text/javascript" src="cordova.js"></script>
         <script type="text/javascript" src="js/index.js"></script>
         <script type="text/javascript" src="PushNotification.js"></script>
         <script src="cdv-plugin-fb-connect.js"></script>
+        <!--script src="facebook-js-sdk.js"></script-->
 
         <script type="text/javascript">
             shell.initialize();
@@ -68,10 +102,11 @@
             </div>
         </div>
         <div id="nav-region"></div>
+        <div id="footer-nav-region"></div>
         <div id="modal-region" class="full-modal"></div>
         <div id="notification-region"></div>
         <div id="cover-region"></div>
-                
+       
 
         <script type="text/javascript">
             document.addEventListener('deviceready', function(){

@@ -5,7 +5,6 @@
 	};
 	objectVersion = 46;
 	objects = {
-
 /* Begin PBXBuildFile section */
 		004FACE317F39CFB008D17F4 /* FacebookSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 004FACE217F39CFB008D17F4 /* FacebookSDK.framework */; };
 		004FAD1017F39E15008D17F4 /* Social.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 004FAD0F17F39E15008D17F4 /* Social.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
