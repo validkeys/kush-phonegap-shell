@@ -5,6 +5,7 @@
 	};
 	objectVersion = 46;
 	objects = {
+
 /* Begin PBXBuildFile section */
 		0033F1BF180764CE0027D03E /* icon-114.png in Resources */ = {isa = PBXBuildFile; fileRef = 0033F1B9180764CE0027D03E /* icon-114.png */; };
 		0033F1C0180764CE0027D03E /* icon-120.png in Resources */ = {isa = PBXBuildFile; fileRef = 0033F1BA180764CE0027D03E /* icon-120.png */; };
@@ -908,7 +909,7 @@
 					"-ObjC",
 				);
 				PRODUCT_NAME = Kush;
-				PROVISIONING_PROFILE = "2BF69D07-79B3-4FB8-B136-DED7CB4BA29C";
+				PROVISIONING_PROFILE = "FA44B34A-7B4B-42FB-9DD4-D05E73C3DF7D";
 				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
@@ -953,7 +954,7 @@
 					"-ObjC",
 				);
 				PRODUCT_NAME = Kush;
-				PROVISIONING_PROFILE = "2BF69D07-79B3-4FB8-B136-DED7CB4BA29C";
+				PROVISIONING_PROFILE = "FA44B34A-7B4B-42FB-9DD4-D05E73C3DF7D";
 				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
